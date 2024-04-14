@@ -1,0 +1,2545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"field",
+				"field_length"
+			],
+			[
+				"line",
+				"linear_field"
+			],
+			[
+				"lin",
+				"linear_field"
+			],
+			[
+				"set",
+				"set_unique_desc_ids"
+			],
+			[
+				"sp",
+				"specify_parameters"
+			],
+			[
+				"specify_ac",
+				"specify_action_parameters"
+			],
+			[
+				"dome",
+				"domesticated_mind"
+			],
+			[
+				"T",
+				"ThreeDScene"
+			],
+			[
+				"focus",
+				"focus_point"
+			],
+			[
+				"re",
+				"rel_stop"
+			],
+			[
+				"w",
+				"white_circle"
+			],
+			[
+				"ROT",
+				"ROT_P"
+			],
+			[
+				"left",
+				"left_semi_circle"
+			],
+			[
+				"U",
+				"UAngle"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"ac",
+				"actions"
+			],
+			[
+				"spe",
+				"specify_parameters"
+			],
+			[
+				"right_s",
+				"right_semi_circle"
+			],
+			[
+				"sn",
+				"snap_start"
+			],
+			[
+				"hei",
+				"height_bias"
+			],
+			[
+				"cur",
+				"curvature_spline"
+			],
+			[
+				"cy",
+				"cylinder"
+			],
+			[
+				"interf",
+				"interface"
+			],
+			[
+				"pro",
+				"projection_types"
+			],
+			[
+				"specif",
+				"specify_parameters"
+			],
+			[
+				"right",
+				"right_eye"
+			],
+			[
+				"spec",
+				"specify_creation"
+			],
+			[
+				"cus",
+				"CustomObject"
+			],
+			[
+				"C",
+				"CustomObject"
+			],
+			[
+				"rig",
+				"right_eye"
+			],
+			[
+				"inter",
+				"interface_guy"
+			],
+			[
+				"fill",
+				"filled"
+			],
+			[
+				"lef",
+				"left_to_right"
+			],
+			[
+				"dia",
+				"diameter"
+			],
+			[
+				"cr",
+				"crop_talk"
+			],
+			[
+				"M",
+				"Membrane"
+			],
+			[
+				"met",
+				"meta_lens"
+			],
+			[
+				"d",
+				"desc_id"
+			],
+			[
+				"wa",
+				"warm_lens_border"
+			],
+			[
+				"war",
+				"warm_lens_border"
+			],
+			[
+				"un",
+				"un_fill"
+			],
+			[
+				"gr",
+				"grid_width"
+			],
+			[
+				"specify",
+				"specify_action_interval"
+			],
+			[
+				"gene",
+				"generation_mode"
+			],
+			[
+				"ini",
+				"initial_visibility_port"
+			],
+			[
+				"no",
+				"not_node_final"
+			],
+			[
+				"G",
+				"GetOutPort"
+			],
+			[
+				"o",
+				"object_ini"
+			],
+			[
+				"_",
+				"__class__"
+			],
+			[
+				"Lin",
+				"LineObject"
+			],
+			[
+				"mos",
+				"mospline"
+			],
+			[
+				"pr",
+				"priority"
+			],
+			[
+				"rel_s",
+				"rel_stop"
+			],
+			[
+				"rel",
+				"rel_start"
+			],
+			[
+				"in",
+				"input_spline"
+			],
+			[
+				"inpu",
+				"input_spline"
+			],
+			[
+				"spl",
+				"spline_masks"
+			],
+			[
+				"de",
+				"desc_id"
+			],
+			[
+				"explosion",
+				"explosion_radius_parameter"
+			],
+			[
+				"ID_BASEOBJECT_P",
+				"ID_BASEOBJECT_POSITION"
+			],
+			[
+				"create_dis",
+				"create_distance_nodes"
+			],
+			[
+				"crea",
+				"create_part_node"
+			],
+			[
+				"expl",
+				"explosion_radius"
+			],
+			[
+				"movem",
+				"movements"
+			],
+			[
+				"gen",
+				"generation_mode"
+			],
+			[
+				"mospl",
+				"mospline"
+			],
+			[
+				"PO",
+				"POS_Y"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"warm",
+				"warm_lens_border"
+			],
+			[
+				"len",
+				"lens"
+			],
+			[
+				"specify_",
+				"specify_relations"
+			],
+			[
+				"R",
+				"RED"
+			],
+			[
+				"gl",
+				"glow_parameter"
+			],
+			[
+				"Visi",
+				"VisibleMoSpline"
+			],
+			[
+				"sk",
+				"sketch_parameter_setup"
+			],
+			[
+				"sou",
+				"source_spline"
+			],
+			[
+				"mo",
+				"morpher"
+			],
+			[
+				"Insert",
+				"InsertUnder"
+			],
+			[
+				"dynamic_membrane_",
+				"dynamic_membrane_length_right_parameter"
+			],
+			[
+				"dyn",
+				"dynamic_membrane_length_left_parameter"
+			],
+			[
+				"desc",
+				"desc_id"
+			],
+			[
+				"peer",
+				"peer_count_parameter"
+			],
+			[
+				"peers",
+				"peers_right"
+			],
+			[
+				"destination",
+				"destination_splines"
+			],
+			[
+				"split_membrane_ac",
+				"split_membrane_action_parameter"
+			],
+			[
+				"split",
+				"split_distance_parameter"
+			],
+			[
+				"morph_comple",
+				"morph_completion_parameter"
+			],
+			[
+				"Spl",
+				"SplineMask"
+			],
+			[
+				"ed",
+				"edges"
+			],
+			[
+				"f",
+				"formula"
+			],
+			[
+				"pee",
+				"peer_color"
+			],
+			[
+				"split_membrane_",
+				"split_membrane_left"
+			],
+			[
+				"clo",
+				"clone_connector"
+			],
+			[
+				"impo",
+				"importlib"
+			],
+			[
+				"targ",
+				"target_object"
+			],
+			[
+				"max",
+				"max_distance_parameter"
+			],
+			[
+				"n",
+				"neighbour_count_parameter"
+			],
+			[
+				"ne",
+				"neighbour_count_parameter"
+			],
+			[
+				"GV_OBJECT_OBJE",
+				"GV_OBJECT_OPERATOR_OBJECT_OUT"
+			],
+			[
+				"a",
+				"ancient_connections"
+			],
+			[
+				"get_s",
+				"get_segment_count"
+			],
+			[
+				"anim",
+				"animations"
+			],
+			[
+				"zoo",
+				"zoom_animation"
+			],
+			[
+				"scree",
+				"screen_border"
+			],
+			[
+				"laptop",
+				"laptop_right"
+			],
+			[
+				"tar",
+				"target_radius"
+			],
+			[
+				"inti",
+				"__init__"
+			],
+			[
+				"fou",
+				"focus_point_z_parameter"
+			],
+			[
+				"focus_point_",
+				"focus_point_x_parameter"
+			],
+			[
+				"focu",
+				"focus_point_x"
+			],
+			[
+				"foc",
+				"focus_point_x"
+			],
+			[
+				"POS",
+				"POS_Z"
+			],
+			[
+				"ra",
+				"radius_parameter"
+			],
+			[
+				"tilt",
+				"tilt_parameter"
+			],
+			[
+				"the",
+				"theta_parameter"
+			],
+			[
+				"or",
+				"orbit"
+			],
+			[
+				"paramet",
+				"parameter_port"
+			],
+			[
+				"parameter",
+				"parameter_node"
+			],
+			[
+				"segment",
+				"segment_count_ini"
+			],
+			[
+				"fiel",
+				"field_length_parameter"
+			],
+			[
+				"Proto",
+				"ProtoAnimation"
+			],
+			[
+				"effects",
+				"effect_objects"
+			],
+			[
+				"specify_boundin",
+				"specify_bounding_box_relations"
+			],
+			[
+				"fr",
+				"frame_width"
+			],
+			[
+				"frame",
+				"frame_width"
+			],
+			[
+				"dis",
+				"distance_to_frame_width_ratio"
+			],
+			[
+				"cam",
+				"camera_objects"
+			],
+			[
+				"animation",
+				"animation_group"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SVG2Morph.py",
+			"settings":
+			{
+				"buffer_size": 493,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAA+QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAABsAAAAAAAAAGwAAAAAAAAAMAAAATG9nb0NyZWF0aW9u",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "Morph"
+					},
+					"BQAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "load"
+					},
+					"BQAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABEAAAAAAAAACkAAAB0ZXh0IHdpdGggZm9udCAibWlzdHJ1bGx5IiBhbmQgY29sb3IgZ29sZEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAABGAAAAAAAAAEcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABsAAAAAAAAAP///////+9/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": " two"
+					},
+					"BAAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAASwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": " svg"
+					},
+					"BAAAAEsAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAABNAAAAAAAAAE4AAAAAAAAAAAAAAE4AAAAAAAAATwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": " files"
+					},
+					"BgAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABRAAAAAAAAAAAAAABRAAAAAAAAAFIAAAAAAAAAAAAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFUAAAAAAAAAVgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAAD8AAAAAAAAAPwAAAAAAAAAXAAAACQkjIGxvYWQgdHdvIHN2ZyBmaWxlcyA/AAAAAAAAAHAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					3,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+					},
+					"AwAAANAAAAAAAAAA0AAAAAAAAAAmAAAACQlzZWxmLnBsYXkoV3JpdGUoZnJldWRlKSwgcnVuX3RpbWU9MynPAAAAAAAAAM8AAAAAAAAAAQAAAApxAAAAAAAAAHEAAAAAAAAAXgAAAAkJZnJldWRlID0gVGV4dCgiRnJldWRlIiwgZm9udD0iTWlzdHJ1bGx5Iiwgc3Ryb2tlX2NvbG9yPSIjYmJiMTU3IiwgY29sb3I9IiNiYmIxNTciLCBoZWlnaHQ9Mik",
+					"AQAAAAAAAAABAAAA9gAAAAAAAAD2AAAAAAAAAP///////+9/"
+				],
+				[
+					34,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHAAAAAAAAAAcAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAABzAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAAHEAAAAAAAAAcQAAAAAAAAACAAAACQlxAAAAAAAAAJAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAJAAAAAAAAAAkQAAAAAAAAAAAAAAkQAAAAAAAACTAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkAAAAAAAAACQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAAJEAAAAAAAAAkQAAAAAAAAACAAAACQmRAAAAAAAAALAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkwAAAAAAAACTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAALAAAAAAAAAAsQAAAAAAAAAAAAAAsQAAAAAAAACzAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAAAAAAAAACwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAALEAAAAAAAAAsQAAAAAAAAACAAAACQmxAAAAAAAAANMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAANIAAAAAAAAA0wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0gAAAAAAAADSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": " run"
+					},
+					"BAAAANMAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADVAAAAAAAAAAAAAADVAAAAAAAAANYAAAAAAAAAAAAAANYAAAAAAAAA1wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0wAAAAAAAADTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": " time"
+					},
+					"BQAAANcAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADZAAAAAAAAAAAAAADZAAAAAAAAANoAAAAAAAAAAAAAANoAAAAAAAAA2wAAAAAAAAAAAAAA2wAAAAAAAADcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1wAAAAAAAADXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					5,
+					"left_delete",
+					null,
+					"BQAAANsAAAAAAAAA2wAAAAAAAAABAAAAZdoAAAAAAAAA2gAAAAAAAAABAAAAbdkAAAAAAAAA2QAAAAAAAAABAAAAadgAAAAAAAAA2AAAAAAAAAABAAAAdNcAAAAAAAAA1wAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA3AAAAAAAAADcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAALEAAAAAAAAAsQAAAAAAAAAnAAAACQlzZWxmLnBsYXkoVHJhbnNmb3JtKHN2ZzEsIHN2ZzIpLCBydW4psQAAAAAAAADfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1wAAAAAAAADXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN0AAAAAAAAA3QAAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAA3gAAAAAAAADeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "3"
+					},
+					"AQAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QAAAAAAAADdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "\n#"
+					},
+					"AwAAALAAAAAAAAAAsQAAAAAAAAAAAAAAsQAAAAAAAACzAAAAAAAAAAAAAACzAAAAAAAAALQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAAAAAAAAACwAAAAAAAAAAAAAAAAMHBA"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": " change"
+					},
+					"BwAAALQAAAAAAAAAtQAAAAAAAAAAAAAAtQAAAAAAAAC2AAAAAAAAAAAAAAC2AAAAAAAAALcAAAAAAAAAAAAAALcAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC5AAAAAAAAAAAAAAC5AAAAAAAAALoAAAAAAAAAAAAAALoAAAAAAAAAuwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAALEAAAAAAAAAsQAAAAAAAAAKAAAACQkjIGNoYW5nZbEAAAAAAAAAyQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuwAAAAAAAAC7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAMkAAAAAAAAAygAAAAAAAAAAAAAAygAAAAAAAADMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyQAAAAAAAADJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAAMoAAAAAAAAAygAAAAAAAAACAAAACQnKAAAAAAAAAN8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAJAAAAAAAAAAkQAAAAAAAAAAAAAAkQAAAAAAAACTAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkAAAAAAAAACQAAAAAAAAAP///////+9/"
+				],
+				[
+					72,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAAJEAAAAAAAAAkQAAAAAAAAACAAAACQmRAAAAAAAAAKkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkwAAAAAAAACTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAKkAAAAAAAAAqgAAAAAAAAAAAAAAqgAAAAAAAACsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqQAAAAAAAACpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAAKoAAAAAAAAAqgAAAAAAAAACAAAACQmqAAAAAAAAAMAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					82,
+					2,
+					"swap_line_up",
+					null,
+					"BAAAAMEAAAAAAAAAwQAAAAAAAAAgAAAACQlzdmcyID0gU1ZHTW9iamVjdCgic3ZnMi5zdmciKQqqAAAAAAAAAMoAAAAAAAAAAAAAAKoAAAAAAAAAqgAAAAAAAAAgAAAACQlzdmcyID0gU1ZHTW9iamVjdCgic3ZnMi5zdmciKQqRAAAAAAAAALEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					89,
+					1,
+					"insert",
+					{
+						"characters": "WHITE"
+					},
+					"BgAAANsAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADcAAAAAAAAAAQAAABCTFVF3AAAAAAAAADdAAAAAAAAAAAAAADdAAAAAAAAAN4AAAAAAAAAAAAAAN4AAAAAAAAA3wAAAAAAAAAAAAAA3wAAAAAAAADgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2wAAAAAAAADfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"insert",
+					{
+						"characters": "WHITE"
+					},
+					"BgAAAAwBAAAAAAAADQEAAAAAAAAAAAAADQEAAAAAAAANAQAAAAAAAAMAAABSRUQNAQAAAAAAAA4BAAAAAAAAAAAAAA4BAAAAAAAADwEAAAAAAAAAAAAADwEAAAAAAAAQAQAAAAAAAAAAAAAQAQAAAAAAABEBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAEAAAAAAAAPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					4,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"BAAAAMUAAAAAAAAAxQAAAAAAAAAEAAAAc3ZnMcIAAAAAAAAAwgAAAAAAAAADAAAAb2YgvAAAAAAAAAC8AAAAAAAAAAYAAABjb2xvciC1AAAAAAAAALUAAAAAAAAABwAAAGNoYW5nZSA",
+					"AQAAAAAAAAABAAAAyQAAAAAAAADJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					107,
+					1,
+					"insert",
+					{
+						"characters": "set"
+					},
+					"AwAAALUAAAAAAAAAtgAAAAAAAAAAAAAAtgAAAAAAAAC3AAAAAAAAAAAAAAC3AAAAAAAAALgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"insert",
+					{
+						"characters": " svg"
+					},
+					"BAAAALgAAAAAAAAAuQAAAAAAAAAAAAAAuQAAAAAAAAC6AAAAAAAAAAAAAAC6AAAAAAAAALsAAAAAAAAAAAAAALsAAAAAAAAAvAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuAAAAAAAAAC4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAALwAAAAAAAAAvQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvAAAAAAAAAC8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"insert",
+					{
+						"characters": "to"
+					},
+					"AgAAAL0AAAAAAAAAvgAAAAAAAAAAAAAAvgAAAAAAAAC/AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvQAAAAAAAAC9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"insert",
+					{
+						"characters": " white"
+					},
+					"BgAAAL8AAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADBAAAAAAAAAAAAAADBAAAAAAAAAMIAAAAAAAAAAAAAAMIAAAAAAAAAwwAAAAAAAAAAAAAAwwAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvwAAAAAAAAC/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"insert",
+					{
+						"characters": " outline"
+					},
+					"CAAAAMUAAAAAAAAAxgAAAAAAAAAAAAAAxgAAAAAAAADHAAAAAAAAAAAAAADHAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAyQAAAAAAAAAAAAAAyQAAAAAAAADKAAAAAAAAAAAAAADKAAAAAAAAAMsAAAAAAAAAAAAAAMsAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADNAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAM0AAAAAAAAAzgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzQAAAAAAAADNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"insert",
+					{
+						"characters": "and"
+					},
+					"AwAAAM4AAAAAAAAAzwAAAAAAAAAAAAAAzwAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzgAAAAAAAADOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"insert",
+					{
+						"characters": " transp"
+					},
+					"BwAAANEAAAAAAAAA0gAAAAAAAAAAAAAA0gAAAAAAAADTAAAAAAAAAAAAAADTAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA1QAAAAAAAAAAAAAA1QAAAAAAAADWAAAAAAAAAAAAAADWAAAAAAAAANcAAAAAAAAAAAAAANcAAAAAAAAA2AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0QAAAAAAAADRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"insert",
+					{
+						"characters": "arent"
+					},
+					"BQAAANgAAAAAAAAA2QAAAAAAAAAAAAAA2QAAAAAAAADaAAAAAAAAAAAAAADaAAAAAAAAANsAAAAAAAAAAAAAANsAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2AAAAAAAAADYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					117,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QAAAAAAAADdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAALEAAAAAAAAAsQAAAAAAAAAtAAAACQkjIHNldCBzdmcgdG8gd2hpdGUgb3V0bGluZSBhbmQgdHJhbnNwYXJlbnQgsQAAAAAAAADiAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3gAAAAAAAADeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAOIAAAAAAAAA4wAAAAAAAAAAAAAA4wAAAAAAAADlAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4gAAAAAAAADiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					120,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAAOMAAAAAAAAA4wAAAAAAAAACAAAACQnjAAAAAAAAAAQBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5QAAAAAAAADlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAAQBAAAAAAAABQEAAAAAAAAAAAAABQEAAAAAAAAHAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAEAAAAAAAAEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAAAUBAAAAAAAABQEAAAAAAAACAAAACQkFAQAAAAAAAB8BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwEAAAAAAAAHAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					4,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"BAAAAEwBAAAAAAAATAEAAAAAAAAEAAAAc3ZnMkkBAAAAAAAASQEAAAAAAAADAAAAb2YgQwEAAAAAAABDAQAAAAAAAAYAAABjb2xvciA8AQAAAAAAADwBAAAAAAAABwAAAGNoYW5nZSA",
+					"AQAAAAAAAAABAAAAUAEAAAAAAABQAQAAAAAAAAAAAAAAAGxA"
+				],
+				[
+					125,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAADgBAAAAAAAAOAEAAAAAAAAEAAAACQkjIDgBAAAAAAAAaQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAEAAAAAAAA8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAGkBAAAAAAAAagEAAAAAAAAAAAAAagEAAAAAAABsAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQEAAAAAAABpAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					127,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAAGoBAAAAAAAAagEAAAAAAAACAAAACQlqAQAAAAAAAIsBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAEAAAAAAABsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAIsBAAAAAAAAjAEAAAAAAAAAAAAAjAEAAAAAAACOAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiwEAAAAAAACLAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					129,
+					1,
+					"copilot_accept_completion",
+					null,
+					"AgAAAIwBAAAAAAAAjAEAAAAAAAACAAAACQmMAQAAAAAAAKYBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjgEAAAAAAACOAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "(manim) davidrug@Davids-MacBook-Pro-2 SVG2Morph % clear                                               \n(manim) davidrug@Davids-MacBook-Pro-2 SVG2Morph % manim SVG2Morph.py -pqh                             \nManim Community v0.17.3                                                                               \n                       \n[04/14/24 19:21:21] INFO     Animation 0 : Partial movie file written in                              \n                                                                                                      ​‌​\n     '/Users/davidrug/Library/Mobile                                                                  \n                             Documents/iCloud~md~obsidian/Documents/InterBrai                         \n                             n/SVG2Morph/media/videos/SVG2Morph/1080p60/parti                         \n                             al_movie_files/Morph/2902699114_1010393621_94730                         \n                             7536.mp4'                                                                \n                    INFO     Combining to Movie file.                                                 \n                                                                                                  INFO​‌​\n                                                                                                      \n                                                                                   File ready at '/Use​‌​\nrs/davidrug/Library/Mobile                                                                            \n                             Documents/iCloud~md~obsidian/Documents/InterBrai                         \n                             n/SVG2Morph/media/videos/SVG2Morph/1080p60/Morph                         \n                             .mp4'                                                                    \n                                                                                                      \n                    INFO     Rendered Morph                                               \n                                                                                                      ​‌​\n                 Played 1 animations                                                      \n                    INFO     Previewed File at: '/Users/davidrug/Library/Mobile                       \n                                                                                                      ​‌​\n              Documents/iCloud~md~obsidian/Documents/InterBrain/SVG2Mor                \n                             ph/media/videos/SVG2Morph/1080p60/Morph.mp4'                             \nYou are using manim version v0.17.3, but version v0.18.0.post0 is available.\nYou should consider upgrading via pip install -U manim\n(manim) davidrug@Davids-MacBook-Pro-2 SVG2Morph % manim SVG2Morph.py -t --format=\"png\"                 \nManim Community v0.17.3\n\n[04/14/24 19:27:05] INFO                                                                              \n                                                                                                      ​‌​\n     180 images ready at                                                      \n                             /Users/davidrug/Library/Mobile                                           \n                             Documents/iCloud~md~obsidian/Documents/InterBrai                         \n                             n/SVG2Morph/media/images/SVG2Morph/Morph                                 \n                                                                                                      \n                    INFO     Rendered Morph                                               \n                                                                                                      ​‌​\n                 Played 1 animations                                                      \nYou are using manim version v0.17.3, but version v0.18.0.post0 is available.\nYou should consider upgrading via pip install -U manim\n(manim) davidrug@Davids-MacBook-Pro-2 SVG2Morph % ",
+			"settings":
+			{
+				"buffer_size": 4109,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					318,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQwsAAAAAAAAyAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBDCwAAAAAAAGALAAAAAAAAAAAAAEMLAAAAAAAAQwsAAAAAAAAdAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAALAsAAAAAAAAsCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					322,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAMQsAAAAAAABJAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgLXBxaDELAAAAAAAAYAsAAAAAAAAAAAAAMQsAAAAAAAAxCwAAAAAAAC8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAQwsAAAAAAABDCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					324,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQwsAAAAAAAA3AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBjbGVhckMLAAAAAAAAYAsAAAAAAAAAAAAAQwsAAAAAAABDCwAAAAAAAB0AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAMQsAAAAAAAAxCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					326,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAANAsAAAAAAABJAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgLXBxbDQLAAAAAAAAYAsAAAAAAAAAAAAANAsAAAAAAAA0CwAAAAAAACwAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAQwsAAAAAAABDCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					328,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQwsAAAAAAAA6AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbWVudkMLAAAAAAAAYAsAAAAAAAAAAAAAQwsAAAAAAABDCwAAAAAAAB0AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAANAsAAAAAAAA0CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					330,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAANAsAAAAAAABJAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgLXBxbDQLAAAAAAAAYAsAAAAAAAAAAAAANAsAAAAAAAA0CwAAAAAAACwAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAQwsAAAAAAABDCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					332,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAVQsAAAAAAAA6AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbWVudlULAAAAAAAAYAsAAAAAAAAAAAAAVQsAAAAAAABVCwAAAAAAAAsAAAAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAANAsAAAAAAAA0CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					334,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAPgsAAAAAAABbAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBwbmcydmlkZW8gRGVwbGV0aW9uUmVqdXZlbmF0aW9uU3BpcmFscyAzMD4LAAAAAAAAYAsAAAAAAAAAAAAAPgsAAAAAAAA+CwAAAAAAACIAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAVQsAAAAAAABVCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					336,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAMQsAAAAAAABEAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IGluc3RhbGwgY2Fpcm8xCwAAAAAAAGALAAAAAAAAAAAAADELAAAAAAAAMQsAAAAAAAAvAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAPgsAAAAAAAA+CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					338,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAASgsAAAAAAAA3AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBjbGVhckoLAAAAAAAAYAsAAAAAAAAAAAAASgsAAAAAAABKCwAAAAAAABYAAAAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAMQsAAAAAAAAxCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					340,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAASAsAAAAAAABQAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBwaXAgaW5zdGFsbCBweWNhaXJvIGxpYmNhaXJvLTJICwAAAAAAAGALAAAAAAAAAAAAAEgLAAAAAAAASAsAAAAAAAAYAAAAICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAASgsAAAAAAABKCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					342,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAPQsAAAAAAABOAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBwaXAgaW5zdGFsbCBjYWlybyBsaWJjYWlyby0yPQsAAAAAAABgCwAAAAAAAAAAAAA9CwAAAAAAAD0LAAAAAAAAIwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAASAsAAAAAAABICwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					344,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAMQsAAAAAAABDAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBweXRob24gc3ZnMnVzZC5weTELAAAAAAAAYAsAAAAAAAAAAAAAMQsAAAAAAAAxCwAAAAAAAC8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAPQsAAAAAAAA9CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					346,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAANgsAAAAAAAA3AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBjbGVhcjYLAAAAAAAAYAsAAAAAAAAAAAAANgsAAAAAAAA2CwAAAAAAACoAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAMQsAAAAAAAAxCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					348,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAANwsAAAAAAAA8AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBjb25kYSBpbmZvNwsAAAAAAABgCwAAAAAAAAAAAAA3CwAAAAAAADcLAAAAAAAAKQAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAANgsAAAAAAAA2CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					350,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAMQsAAAAAAAA9AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBjb25kYSB3aGljaDELAAAAAAAAYAsAAAAAAAAAAAAAMQsAAAAAAAAxCwAAAAAAAC8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAANwsAAAAAAAA3CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					352,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAVAsAAAAAAAA3AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBjb2RhZFQLAAAAAAAAYAsAAAAAAAAAAAAAVAsAAAAAAABUCwAAAAAAAAwAAAAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAMQsAAAAAAAAxCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					354,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAASQsAAAAAAABaAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IGluc3RhbGwgbnphbmVwcm8vdXNkL2Jvb3N0LXB5dGhvbkAySQsAAAAAAABgCwAAAAAAAAAAAABJCwAAAAAAAEkLAAAAAAAAFwAAACAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAVAsAAAAAAABUCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					356,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAMQsAAAAAAABPAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IGluc3RhbGwgbnphbmVwcm8vdXNkL3VzZDELAAAAAAAAYAsAAAAAAAAAAAAAMQsAAAAAAAAxCwAAAAAAAC8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAASQsAAAAAAABJCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					358,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAVAsAAAAAAAA3AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBjbGVhclQLAAAAAAAAYAsAAAAAAAAAAAAAVAsAAAAAAABUCwAAAAAAAAwAAAAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAMQsAAAAAAAAxCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					360,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAARQsAAAAAAABaAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IGluc3RhbGwgbnphbmVwcm8vdXNkL2Jvb3N0LXB5dGhvbkAyRQsAAAAAAABgCwAAAAAAAAAAAABFCwAAAAAAAEULAAAAAAAAGwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAVAsAAAAAAABUCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					362,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAASQsAAAAAAABLAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IGluc3RhbGwgbnphbmVwcm8vdXNkSQsAAAAAAABgCwAAAAAAAAAAAABJCwAAAAAAAEkLAAAAAAAAFwAAACAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAARQsAAAAAAABFCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					364,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQQsAAAAAAABPAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IGluc3RhbGwgbnphbmVwcm8vdXNkL3VzZEELAAAAAAAAXQsAAAAAAAAAAAAAQQsAAAAAAABBCwAAAAAAABwAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAASQsAAAAAAABJCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					366,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAARQsAAAAAAABHAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IHBpbiBuemFuZXByby91c2RFCwAAAAAAAGELAAAAAAAAAAAAAEULAAAAAAAARQsAAAAAAAAcAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAQQsAAAAAAABBCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					368,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQQsAAAAAAABLAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IHRhcC1waW4gbnphbmVwcm8vdXNkQQsAAAAAAABdCwAAAAAAAAAAAABBCwAAAAAAAEELAAAAAAAAHAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAARQsAAAAAAABFCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					370,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAASQsAAAAAAABHAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IHBpbiBuemFuZXByby91c2RJCwAAAAAAAGELAAAAAAAAAAAAAEkLAAAAAAAASQsAAAAAAAAYAAAAICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAQQsAAAAAAABBCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					372,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAARQsAAAAAAABPAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IGluc3RhbGwgbnphbmVwcm8vdXNkL3VzZEULAAAAAAAAYQsAAAAAAAAAAAAARQsAAAAAAABFCwAAAAAAABwAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAASQsAAAAAAABJCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					374,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAVAsAAAAAAABLAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IGluc3RhbGwgbnphbmVwcm8vdXNkVAsAAAAAAABhCwAAAAAAAAAAAABUCwAAAAAAAFQLAAAAAAAADQAAACAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAARQsAAAAAAABFCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					376,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAMQsAAAAAAABaAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IGluc3RhbGwgbnphbmVwcm8vdXNkL2Jvb3N0LXB5dGhvbkAyMQsAAAAAAABhCwAAAAAAAAAAAAAxCwAAAAAAADELAAAAAAAAMAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAVAsAAAAAAABUCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					378,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAASQsAAAAAAAA3AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBjbGVhckkLAAAAAAAAYQsAAAAAAAAAAAAASQsAAAAAAABJCwAAAAAAABgAAAAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAMQsAAAAAAAAxCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					380,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAVAsAAAAAAABPAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IGluc3RhbGwgbnphbmVwcm8vdXNkL3VzZFQLAAAAAAAAYQsAAAAAAAAAAAAAVAsAAAAAAABUCwAAAAAAAA0AAAAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAASQsAAAAAAABJCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					382,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAMQsAAAAAAABaAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IGluc3RhbGwgbnphbmVwcm8vdXNkL2Jvb3N0LXB5dGhvbkAyMQsAAAAAAABhCwAAAAAAAAAAAAAxCwAAAAAAADELAAAAAAAAMAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAVAsAAAAAAABUCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					384,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAANwsAAAAAAAA3AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBjb2RhZDcLAAAAAAAAYQsAAAAAAAAAAAAANwsAAAAAAAA3CwAAAAAAACoAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAMQsAAAAAAAAxCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					386,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAANgsAAAAAAAA9AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBjb25kYSB3aGljaDYLAAAAAAAAYQsAAAAAAAAAAAAANgsAAAAAAAA2CwAAAAAAACsAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAANwsAAAAAAAA3CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					388,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAMQsAAAAAAAA8AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBjb25kYSBpbmZvMQsAAAAAAABhCwAAAAAAAAAAAAAxCwAAAAAAADELAAAAAAAAMAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAANgsAAAAAAAA2CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					390,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAPQsAAAAAAAA3AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBjbGVhcj0LAAAAAAAAYQsAAAAAAAAAAAAAPQsAAAAAAAA9CwAAAAAAACQAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAMQsAAAAAAAAxCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					392,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAASAsAAAAAAABDAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBweXRob24gc3ZnMnVzZC5weUgLAAAAAAAAYQsAAAAAAAAAAAAASAsAAAAAAABICwAAAAAAABkAAAAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAPQsAAAAAAAA9CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					394,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAASgsAAAAAAABOAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBwaXAgaW5zdGFsbCBjYWlybyBsaWJjYWlyby0ySgsAAAAAAABhCwAAAAAAAAAAAABKCwAAAAAAAEoLAAAAAAAAFwAAACAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAASAsAAAAAAABICwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					396,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAMQsAAAAAAABQAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBwaXAgaW5zdGFsbCBweWNhaXJvIGxpYmNhaXJvLTIxCwAAAAAAAGELAAAAAAAAAAAAADELAAAAAAAAMQsAAAAAAAAwAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAASgsAAAAAAABKCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					398,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAPgsAAAAAAAA3AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBjbGVhcj4LAAAAAAAAYQsAAAAAAAAAAAAAPgsAAAAAAAA+CwAAAAAAACMAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAMQsAAAAAAAAxCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					400,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAVQsAAAAAAABEAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBicmV3IGluc3RhbGwgY2Fpcm9VCwAAAAAAAGELAAAAAAAAAAAAAFULAAAAAAAAVQsAAAAAAAAMAAAAICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAPgsAAAAAAAA+CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					402,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAANAsAAAAAAABbAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBwbmcydmlkZW8gRGVwbGV0aW9uUmVqdXZlbmF0aW9uU3BpcmFscyAzMDQLAAAAAAAAYQsAAAAAAAAAAAAANAsAAAAAAAA0CwAAAAAAAC0AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAVQsAAAAAAABVCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					404,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQwsAAAAAAAA6AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbWVudkMLAAAAAAAAYQsAAAAAAAAAAAAAQwsAAAAAAABDCwAAAAAAAB4AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAANAsAAAAAAAA0CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					406,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAMQsAAAAAAABJAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgLXBxbDELAAAAAAAAYQsAAAAAAAAAAAAAMQsAAAAAAAAxCwAAAAAAADAAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAQwsAAAAAAABDCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					408,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQwsAAAAAAAA3AAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBjbGVhckMLAAAAAAAAYQsAAAAAAAAAAAAAQwsAAAAAAABDCwAAAAAAAB4AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAMQsAAAAAAAAxCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					410,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQgsAAAAAAABJAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgLXBxbEILAAAAAAAAYQsAAAAAAAAAAAAAQgsAAAAAAABCCwAAAAAAAB8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAQwsAAAAAAABDCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					412,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQQsAAAAAAABIAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgLXBxQQsAAAAAAABhCwAAAAAAAAAAAABBCwAAAAAAAEELAAAAAAAAIAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAQgsAAAAAAABCCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					414,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQAsAAAAAAABHAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgLXBACwAAAAAAAGELAAAAAAAAAAAAAEALAAAAAAAAQAsAAAAAAAAhAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAQQsAAAAAAABBCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					416,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAPgsAAAAAAABGAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgLT4LAAAAAAAAYQsAAAAAAAAAAAAAPwsAAAAAAAA/CwAAAAAAACIAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAQAsAAAAAAABACwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					418,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAD4LAAAAAAAAPgsAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAPwsAAAAAAAA/CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					420,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQwsAAAAAAABEAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHlDCwAAAAAAAGELAAAAAAAAAAAAAEMLAAAAAAAAQwsAAAAAAAAeAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAPgsAAAAAAAA+CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					422,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAVwsAAAAAAABJAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgLXBxbFcLAAAAAAAAYQsAAAAAAAAAAAAAVwsAAAAAAABXCwAAAAAAAAoAAAAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAQwsAAAAAAABDCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					424,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAVgsAAAAAAABdAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBDaXZEZWVwQ3ljbGVzLnB5IC10IC0tZm9ybWF0PSJwbmciIC1wVgsAAAAAAABhCwAAAAAAAAAAAABWCwAAAAAAAFYLAAAAAAAACwAAACAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAVwsAAAAAAABXCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					426,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAVAsAAAAAAABcAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBDaXZEZWVwQ3ljbGVzLnB5IC10IC0tZm9ybWF0PSJwbmciIC1UCwAAAAAAAGELAAAAAAAAAAAAAFULAAAAAAAAVQsAAAAAAAAMAAAAICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAVgsAAAAAAABWCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					428,
+					1,
+					"terminus_render",
+					null,
+					"AQAAAFQLAAAAAAAAVAsAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAVQsAAAAAAABVCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					431,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAVgsAAAAAAABaAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBDaXZEZWVwQ3ljbGVzLnB5IC10IC0tZm9ybWF0PSJwbmciVgsAAAAAAABhCwAAAAAAAAAAAABWCwAAAAAAAFYLAAAAAAAACwAAACAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAVAsAAAAAAABUCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					435,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAVQsAAAAAAABcAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBDaXZEZWVwQ3ljbGVzLnB5IC10IC0tZm9ybWF0PSJwbmciMkRVCwAAAAAAAGELAAAAAAAAAAAAAFULAAAAAAAAVQsAAAAAAAAMAAAAICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAVgsAAAAAAABWCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					437,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAVAsAAAAAAABbAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBDaXZEZWVwQ3ljbGVzLnB5IC10IC0tZm9ybWF0PSJwbmciMlQLAAAAAAAAYQsAAAAAAAAAAAAAVAsAAAAAAABUCwAAAAAAAA0AAAAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAVQsAAAAAAABVCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					444,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQwsAAAAAAABaAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBDaXZEZWVwQ3ljbGVzLnB5IC10IC0tZm9ybWF0PSJwbmciQwsAAAAAAABhCwAAAAAAAAAAAABDCwAAAAAAAEMLAAAAAAAAHgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAVAsAAAAAAABUCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					446,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAPgsAAAAAAABJAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgLXBxbD4LAAAAAAAAYQsAAAAAAAAAAAAAPgsAAAAAAAA+CwAAAAAAACMAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAQwsAAAAAAABDCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					448,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQwsAAAAAAABEAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHlDCwAAAAAAAGELAAAAAAAAAAAAAEMLAAAAAAAAQwsAAAAAAAAeAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAPgsAAAAAAAA+CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					453,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQgsAAAAAAABJAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgLXBxaEILAAAAAAAAYQsAAAAAAAAAAAAAQgsAAAAAAABCCwAAAAAAAB8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAQwsAAAAAAABDCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					455,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQQsAAAAAAABIAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgLXBxQQsAAAAAAABhCwAAAAAAAAAAAABBCwAAAAAAAEELAAAAAAAAIAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAQgsAAAAAAABCCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					457,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAQAsAAAAAAABHAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgLXBACwAAAAAAAGELAAAAAAAAAAAAAEALAAAAAAAAQAsAAAAAAAAhAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAQQsAAAAAAABBCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					459,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAPgsAAAAAAABGAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgLT4LAAAAAAAAYQsAAAAAAAAAAAAAPwsAAAAAAAA/CwAAAAAAACIAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAQAsAAAAAAABACwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					461,
+					1,
+					"terminus_render",
+					null,
+					"AwAAAPoKAAAAAAAAUAsAAAAAAABFAAAAKG1hbmltKSBkYXZpZHJ1Z0BEYXZpZHMtTWFjQm9vay1Qcm8tMiBTVkcyTW9ycGggJSBtYW5pbSBTVkcyTW9ycGgucHkgUAsAAAAAAABhCwAAAAAAAAAAAABQCwAAAAAAAFALAAAAAAAAEQAAACAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAPwsAAAAAAAA/CwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					463,
+					7,
+					"terminus_render",
+					null,
+					"bAAAAM4AAAAAAAAA5QAAAAAAAABmAAAATWFuaW0gQ29tbXVuaXR5IHYwLjE3LjMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg5QAAAAAAAAA0AQAAAAAAAAAAAAA1AQAAAAAAADUBAAAAAAAAFwAAACAgICAgICAgICAgICAgICAgICAgICAgNQEAAAAAAABMAQAAAAAAAAAAAABNAQAAAAAAAJUBAAAAAAAAZgAAAFswNC8xNC8yNCAxOToyMToyMV0gSU5GTyAgICAgQW5pbWF0aW9uIDAgOiBQYXJ0aWFsIG1vdmllIGZpbGUgd3JpdHRlbiBpbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIJUBAAAAAAAAswEAAAAAAAAAAAAAtAEAAAAAAAAdAgAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDigIvigIzigIseAgAAAAAAAEICAAAAAAAAZgAAACAgICAgJy9Vc2Vycy9kYXZpZHJ1Zy9MaWJyYXJ5L01vYmlsZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEICAAAAAAAAhAIAAAAAAAAAAAAAhQIAAAAAAADSAgAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERvY3VtZW50cy9pQ2xvdWR+bWR+b2JzaWRpYW4vRG9jdW1lbnRzL0ludGVyQnJhaSAgICAgICAgICAgICAgICAgICAgICAgICDSAgAAAAAAAOsCAAAAAAAAAAAAAOwCAAAAAAAAOQMAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuL1NWRzJNb3JwaC9tZWRpYS92aWRlb3MvU1ZHMk1vcnBoLzEwODBwNjAvcGFydGkgICAgICAgICAgICAgICAgICAgICAgICAgOQMAAAAAAABSAwAAAAAAAAAAAABTAwAAAAAAAKADAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWxfbW92aWVfZmlsZXMvTW9ycGgvMjkwMjY5OTExNF8xMDEwMzkzNjIxXzk0NzMwICAgICAgICAgICAgICAgICAgICAgICAgIKADAAAAAAAAuQMAAAAAAAAAAAAAugMAAAAAAADgAwAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDc1MzYubXA0JyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDgAwAAAAAAACAEAAAAAAAAAAAAACEEAAAAAAAAVgQAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICBJTkZPICAgICBDb21iaW5pbmcgdG8gTW92aWUgZmlsZS4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVgQAAAAAAACHBAAAAAAAAAAAAACIBAAAAAAAAPEEAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSU5GT+KAi+KAjOKAi/IEAAAAAAAA8gQAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg8gQAAAAAAABYBQAAAAAAAAAAAABZBQAAAAAAAMIFAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRmlsZSByZWFkeSBhdCAnL1VzZeKAi+KAjOKAi8MFAAAAAAAA3QUAAAAAAABmAAAAcnMvZGF2aWRydWcvTGlicmFyeS9Nb2JpbGUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg3QUAAAAAAAApBgAAAAAAAAAAAAAqBgAAAAAAAHcGAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRG9jdW1lbnRzL2lDbG91ZH5tZH5vYnNpZGlhbi9Eb2N1bWVudHMvSW50ZXJCcmFpICAgICAgICAgICAgICAgICAgICAgICAgIHcGAAAAAAAAkAYAAAAAAAAAAAAAkQYAAAAAAADeBgAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG4vU1ZHMk1vcnBoL21lZGlhL3ZpZGVvcy9TVkcyTW9ycGgvMTA4MHA2MC9Nb3JwaCAgICAgICAgICAgICAgICAgICAgICAgICDeBgAAAAAAAPcGAAAAAAAAAAAAAPgGAAAAAAAAGgcAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAubXA0JyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgGgcAAAAAAABeBwAAAAAAAAAAAABfBwAAAAAAAF8HAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF8HAAAAAAAAxQcAAAAAAAAAAAAAxgcAAAAAAADxBwAAAAAAAFoAAAAgICAgICAgICAgICAgICAgICAgIElORk8gICAgIFJlbmRlcmVkIE1vcnBoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDxBwAAAAAAACAIAAAAAAAAAAAAACEIAAAAAAAAiggAAAAAAABvAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4oCL4oCM4oCLiwgAAAAAAACvCAAAAAAAAFoAAAAgICAgICAgICAgICAgICAgIFBsYXllZCAxIGFuaW1hdGlvbnMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCvCAAAAAAAAOUIAAAAAAAAAAAAAOYIAAAAAAAANQkAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICBJTkZPICAgICBQcmV2aWV3ZWQgRmlsZSBhdDogJy9Vc2Vycy9kYXZpZHJ1Zy9MaWJyYXJ5L01vYmlsZSAgICAgICAgICAgICAgICAgICAgICAgNQkAAAAAAABMCQAAAAAAAAAAAABNCQAAAAAAALYJAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAi7cJAAAAAAAA/gkAAAAAAABXAAAAICAgICAgICAgICAgICBEb2N1bWVudHMvaUNsb3Vkfm1kfm9ic2lkaWFuL0RvY3VtZW50cy9JbnRlckJyYWluL1NWRzJNb3IgICAgICAgICAgICAgICAg/gkAAAAAAAAOCgAAAAAAAAAAAAAPCgAAAAAAAFgKAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGgvbWVkaWEvdmlkZW9zL1NWRzJNb3JwaC8xMDgwcDYwL01vcnBoLm1wNCcgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFgKAAAAAAAAdQoAAAAAAAAAAAAAdgoAAAAAAADCCgAAAAAAAEwAAABZb3UgYXJlIHVzaW5nIG1hbmltIHZlcnNpb24gdjAuMTcuMywgYnV0IHZlcnNpb24gdjAuMTguMC5wb3N0MCBpcyBhdmFpbGFibGUuwwoAAAAAAAD5CgAAAAAAADYAAABZb3Ugc2hvdWxkIGNvbnNpZGVyIHVwZ3JhZGluZyB2aWEgcGlwIGluc3RhbGwgLVUgbWFuaW36CgAAAAAAAFALAAAAAAAAVgAAAChtYW5pbSkgZGF2aWRydWdARGF2aWRzLU1hY0Jvb2stUHJvLTIgU1ZHMk1vcnBoICUgbWFuaW0gU1ZHMk1vcnBoLnB5IC10IC0tZm9ybWF0PSJwbmciUAsAAAAAAABhCwAAAAAAAAAAAABhCwAAAAAAAGILAAAAAAAAAAAAAGILAAAAAAAAYgsAAAAAAAAAAAAATQEAAAAAAACVAQAAAAAAAGYAAABbMDQvMTQvMjQgMTk6MjE6MjFdIElORk8gICAgIEFuaW1hdGlvbiAwIDogUGFydGlhbCBtb3ZpZSBmaWxlIHdyaXR0ZW4gaW4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICCVAQAAAAAAALMBAAAAAAAAAAAAADUBAAAAAAAANQEAAAAAAAAXAAAAICAgICAgICAgICAgICAgICAgICAgICA1AQAAAAAAAEwBAAAAAAAAAAAAALQBAAAAAAAAHQIAAAAAAABvAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4oCL4oCM4oCLHgIAAAAAAABCAgAAAAAAAGYAAAAgICAgICcvVXNlcnMvZGF2aWRydWcvTGlicmFyeS9Nb2JpbGUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCAgAAAAAAAIQCAAAAAAAAAAAAAIUCAAAAAAAA0gIAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEb2N1bWVudHMvaUNsb3Vkfm1kfm9ic2lkaWFuL0RvY3VtZW50cy9JbnRlckJyYWkgICAgICAgICAgICAgICAgICAgICAgICAg0gIAAAAAAADrAgAAAAAAAAAAAADsAgAAAAAAADkDAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbi9TVkcyTW9ycGgvbWVkaWEvdmlkZW9zL1NWRzJNb3JwaC8xMDgwcDYwL3BhcnRpICAgICAgICAgICAgICAgICAgICAgICAgIDkDAAAAAAAAUgMAAAAAAAAAAAAAUwMAAAAAAACgAwAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsX21vdmllX2ZpbGVzL01vcnBoLzI5MDI2OTkxMTRfMTAxMDM5MzYyMV85NDczMCAgICAgICAgICAgICAgICAgICAgICAgICCgAwAAAAAAALkDAAAAAAAAAAAAALoDAAAAAAAA4AMAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICA3NTM2Lm1wNCcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4AMAAAAAAAAgBAAAAAAAAAAAAAAhBAAAAAAAAFYEAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgSU5GTyAgICAgQ29tYmluaW5nIHRvIE1vdmllIGZpbGUuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFYEAAAAAAAAhwQAAAAAAAAAAAAAiAQAAAAAAADxBAAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIElORk/igIvigIzigIvyBAAAAAAAAPIEAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIPIEAAAAAAAAWAUAAAAAAAAAAAAAWQUAAAAAAADCBQAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZpbGUgcmVhZHkgYXQgJy9Vc2XigIvigIzigIvDBQAAAAAAAN0FAAAAAAAAZgAAAHJzL2RhdmlkcnVnL0xpYnJhcnkvTW9iaWxlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIN0FAAAAAAAAKQYAAAAAAAAAAAAAKgYAAAAAAAB3BgAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERvY3VtZW50cy9pQ2xvdWR+bWR+b2JzaWRpYW4vRG9jdW1lbnRzL0ludGVyQnJhaSAgICAgICAgICAgICAgICAgICAgICAgICB3BgAAAAAAAJAGAAAAAAAAAAAAAJEGAAAAAAAA3gYAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuL1NWRzJNb3JwaC9tZWRpYS92aWRlb3MvU1ZHMk1vcnBoLzEwODBwNjAvTW9ycGggICAgICAgICAgICAgICAgICAgICAgICAg3gYAAAAAAAD3BgAAAAAAAAAAAAD4BgAAAAAAABoHAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLm1wNCcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIBoHAAAAAAAAXgcAAAAAAAAAAAAAXwcAAAAAAABfBwAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfBwAAAAAAAMUHAAAAAAAAAAAAAMYHAAAAAAAA8QcAAAAAAABaAAAAICAgICAgICAgICAgICAgICAgICBJTkZPICAgICBSZW5kZXJlZCBNb3JwaCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg8QcAAAAAAAAgCAAAAAAAAAAAAAAhCAAAAAAAAIoIAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAi4sIAAAAAAAArwgAAAAAAABaAAAAICAgICAgICAgICAgICAgICBQbGF5ZWQgMSBhbmltYXRpb25zICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgrwgAAAAAAADlCAAAAAAAAAAAAADmCAAAAAAAADUJAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgSU5GTyAgICAgUHJldmlld2VkIEZpbGUgYXQ6ICcvVXNlcnMvZGF2aWRydWcvTGlicmFyeS9Nb2JpbGUgICAgICAgICAgICAgICAgICAgICAgIDUJAAAAAAAATAkAAAAAAAAAAAAATQkAAAAAAAC2CQAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDigIvigIzigIu3CQAAAAAAAP4JAAAAAAAAVwAAACAgICAgICAgICAgICAgRG9jdW1lbnRzL2lDbG91ZH5tZH5vYnNpZGlhbi9Eb2N1bWVudHMvSW50ZXJCcmFpbi9TVkcyTW9yICAgICAgICAgICAgICAgIP4JAAAAAAAADgoAAAAAAAAAAAAADwoAAAAAAABYCgAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBoL21lZGlhL3ZpZGVvcy9TVkcyTW9ycGgvMTA4MHA2MC9Nb3JwaC5tcDQnICAgICAgICAgICAgICAgICAgICAgICAgICAgICBYCgAAAAAAAHUKAAAAAAAAAAAAAHYKAAAAAAAAwgoAAAAAAABMAAAAWW91IGFyZSB1c2luZyBtYW5pbSB2ZXJzaW9uIHYwLjE3LjMsIGJ1dCB2ZXJzaW9uIHYwLjE4LjAucG9zdDAgaXMgYXZhaWxhYmxlLsMKAAAAAAAA+QoAAAAAAAA2AAAAWW91IHNob3VsZCBjb25zaWRlciB1cGdyYWRpbmcgdmlhIHBpcCBpbnN0YWxsIC1VIG1hbmlt+goAAAAAAABQCwAAAAAAAGcAAAAobWFuaW0pIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFNWRzJNb3JwaCAlIG1hbmltIFNWRzJNb3JwaC5weSAtdCAtLWZvcm1hdD0icG5nIiAgICAgICAgICAgICAgICAgUAsAAAAAAABhCwAAAAAAAAAAAABiCwAAAAAAAHkLAAAAAAAAAAAAAHkLAAAAAAAAegsAAAAAAAAAAAAAegsAAAAAAAB6CwAAAAAAAAAAAAB6CwAAAAAAAHsLAAAAAAAAAAAAAHsLAAAAAAAAewsAAAAAAAAAAAAAewsAAAAAAADhCwAAAAAAAAAAAAB7CwAAAAAAAOELAAAAAAAAZgAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAgMCV8ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMC8xODAgWzAwOjAwPD8sID9pdC9zXXsLAAAAAAAA4QsAAAAAAABoAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogICAxJXzilo8gICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAxLzE4MCBbMDA6MDA8MDA6MTksICA5LjEwaXQvc117CwAAAAAAAOELAAAAAAAAaAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAgMSV84paOICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMi8xODAgWzAwOjAwPDAwOjE4LCAgOS41NGl0L3NdewsAAAAAAADhCwAAAAAAAGgAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgIDIlfOKWjSAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IDMvMTgwIFswMDowMDwwMDoxOCwgIDkuNjdpdC9zXQ",
+					"AQAAAAAAAAABAAAAUAsAAAAAAABQCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					464,
+					1,
+					"terminus_show_cursor",
+					null,
+					"AQAAAHoLAAAAAAAA4AsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4QsAAAAAAADhCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					465,
+					21,
+					"terminus_render",
+					null,
+					"RQAAALQBAAAAAAAAHQIAAAAAAABvAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4oCL4oCM4oCLHgIAAAAAAABCAgAAAAAAAGYAAAAgICAgICcvVXNlcnMvZGF2aWRydWcvTGlicmFyeS9Nb2JpbGUgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBCAgAAAAAAAIQCAAAAAAAAAAAAAIUCAAAAAAAA0gIAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEb2N1bWVudHMvaUNsb3Vkfm1kfm9ic2lkaWFuL0RvY3VtZW50cy9JbnRlckJyYWkgICAgICAgICAgICAgICAgICAgICAgICAg0gIAAAAAAADrAgAAAAAAAAAAAADsAgAAAAAAADkDAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbi9TVkcyTW9ycGgvbWVkaWEvdmlkZW9zL1NWRzJNb3JwaC8xMDgwcDYwL3BhcnRpICAgICAgICAgICAgICAgICAgICAgICAgIDkDAAAAAAAAUgMAAAAAAAAAAAAAUwMAAAAAAACgAwAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsX21vdmllX2ZpbGVzL01vcnBoLzI5MDI2OTkxMTRfMTAxMDM5MzYyMV85NDczMCAgICAgICAgICAgICAgICAgICAgICAgICCgAwAAAAAAALkDAAAAAAAAAAAAALoDAAAAAAAA4AMAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICA3NTM2Lm1wNCcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4AMAAAAAAAAgBAAAAAAAAAAAAAAhBAAAAAAAAFYEAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgSU5GTyAgICAgQ29tYmluaW5nIHRvIE1vdmllIGZpbGUuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFYEAAAAAAAAhwQAAAAAAAAAAAAAiAQAAAAAAADxBAAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIElORk/igIvigIzigIvyBAAAAAAAAPIEAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIPIEAAAAAAAAWAUAAAAAAAAAAAAAWQUAAAAAAADCBQAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZpbGUgcmVhZHkgYXQgJy9Vc2XigIvigIzigIvDBQAAAAAAAN0FAAAAAAAAZgAAAHJzL2RhdmlkcnVnL0xpYnJhcnkvTW9iaWxlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIN0FAAAAAAAAKQYAAAAAAAAAAAAAKgYAAAAAAAB3BgAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERvY3VtZW50cy9pQ2xvdWR+bWR+b2JzaWRpYW4vRG9jdW1lbnRzL0ludGVyQnJhaSAgICAgICAgICAgICAgICAgICAgICAgICB3BgAAAAAAAJAGAAAAAAAAAAAAAJEGAAAAAAAA3gYAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuL1NWRzJNb3JwaC9tZWRpYS92aWRlb3MvU1ZHMk1vcnBoLzEwODBwNjAvTW9ycGggICAgICAgICAgICAgICAgICAgICAgICAg3gYAAAAAAAD3BgAAAAAAAAAAAAD4BgAAAAAAABoHAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLm1wNCcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIBoHAAAAAAAAXgcAAAAAAAAAAAAAXwcAAAAAAABfBwAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfBwAAAAAAAMUHAAAAAAAAAAAAAMYHAAAAAAAA8QcAAAAAAABaAAAAICAgICAgICAgICAgICAgICAgICBJTkZPICAgICBSZW5kZXJlZCBNb3JwaCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg8QcAAAAAAAAgCAAAAAAAAAAAAAAhCAAAAAAAAIoIAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAi4sIAAAAAAAArwgAAAAAAABaAAAAICAgICAgICAgICAgICAgICBQbGF5ZWQgMSBhbmltYXRpb25zICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgrwgAAAAAAADlCAAAAAAAAAAAAADmCAAAAAAAADUJAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgSU5GTyAgICAgUHJldmlld2VkIEZpbGUgYXQ6ICcvVXNlcnMvZGF2aWRydWcvTGlicmFyeS9Nb2JpbGUgICAgICAgICAgICAgICAgICAgICAgIDUJAAAAAAAATAkAAAAAAAAAAAAATQkAAAAAAAC2CQAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDigIvigIzigIu3CQAAAAAAAP4JAAAAAAAAVwAAACAgICAgICAgICAgICAgRG9jdW1lbnRzL2lDbG91ZH5tZH5vYnNpZGlhbi9Eb2N1bWVudHMvSW50ZXJCcmFpbi9TVkcyTW9yICAgICAgICAgICAgICAgIP4JAAAAAAAADgoAAAAAAAAAAAAADwoAAAAAAABYCgAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBoL21lZGlhL3ZpZGVvcy9TVkcyTW9ycGgvMTA4MHA2MC9Nb3JwaC5tcDQnICAgICAgICAgICAgICAgICAgICAgICAgICAgICBYCgAAAAAAAHUKAAAAAAAAAAAAAHYKAAAAAAAAwgoAAAAAAABMAAAAWW91IGFyZSB1c2luZyBtYW5pbSB2ZXJzaW9uIHYwLjE3LjMsIGJ1dCB2ZXJzaW9uIHYwLjE4LjAucG9zdDAgaXMgYXZhaWxhYmxlLsMKAAAAAAAA+QoAAAAAAAA2AAAAWW91IHNob3VsZCBjb25zaWRlciB1cGdyYWRpbmcgdmlhIHBpcCBpbnN0YWxsIC1VIG1hbmlt+goAAAAAAABQCwAAAAAAAGcAAAAobWFuaW0pIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFNWRzJNb3JwaCAlIG1hbmltIFNWRzJNb3JwaC5weSAtdCAtLWZvcm1hdD0icG5nIiAgICAgICAgICAgICAgICAgUAsAAAAAAABhCwAAAAAAAAAAAABiCwAAAAAAAHkLAAAAAAAAFwAAAE1hbmltIENvbW11bml0eSB2MC4xNy4zegsAAAAAAAB6CwAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CwAAAAAAAOELAAAAAAAAaAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAgMiV84paLICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgNC8xODAgWzAwOjAwPDAwOjE4LCAgOS43NWl0L3Nd4QsAAAAAAADiCwAAAAAAAAAAAADiCwAAAAAAAOILAAAAAAAAAAAAAOELAAAAAAAA4QsAAAAAAAABAAAACnsLAAAAAAAA4QsAAAAAAABoAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogICAyJXzilosgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCA0LzE4MCBbMDA6MDA8MDA6MTgsICA5Ljc1aXQvc117CwAAAAAAAOELAAAAAAAAaAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAgMyV84paKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgNS8xODAgWzAwOjAwPDAwOjE4LCAgOS42OGl0L3NdewsAAAAAAADhCwAAAAAAAGgAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgIDMlfOKWiSAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IDYvMTgwIFswMDowMDwwMDoxNywgIDkuNzRpdC9zXXsLAAAAAAAA4QsAAAAAAABqAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogICA0JXzilojilo8gICAgICAgICAgICAgICAgICAgICAgICAgICB8IDcvMTgwIFswMDowMDwwMDoxNywgIDkuODBpdC9zXXsLAAAAAAAA4QsAAAAAAABqAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogICA0JXzilojilo4gICAgICAgICAgICAgICAgICAgICAgICAgICB8IDgvMTgwIFswMDowMDwwMDoxNywgIDkuODFpdC9zXXsLAAAAAAAA4QsAAAAAAABqAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogICA1JXzilojilo0gICAgICAgICAgICAgICAgICAgICAgICAgICB8IDkvMTgwIFswMDowMDwwMDoxNywgIDkuODFpdC9zXXsLAAAAAAAA4QsAAAAAAABqAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogICA2JXzilojilowgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMTAvMTgwIFswMDowMTwwMDoxNywgIDkuODFpdC9zXXsLAAAAAAAA4QsAAAAAAABqAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogICA2JXzilojilosgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMTEvMTgwIFswMDowMTwwMDoxNywgIDkuNzdpdC9zXXsLAAAAAAAA4QsAAAAAAABqAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogICA3JXzilojiloogICAgICAgICAgICAgICAgICAgICAgICAgIHwgMTIvMTgwIFswMDowMTwwMDoxNywgIDkuODBpdC9zXXsLAAAAAAAA4QsAAAAAAABqAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogICA3JXzilojiloggICAgICAgICAgICAgICAgICAgICAgICAgIHwgMTMvMTgwIFswMDowMTwwMDoxNywgIDkuODBpdC9zXXsLAAAAAAAA4QsAAAAAAABsAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogICA4JXzilojilojilo8gICAgICAgICAgICAgICAgICAgICAgICAgfCAxNC8xODAgWzAwOjAxPDAwOjE2LCAgOS44MGl0L3NdewsAAAAAAADhCwAAAAAAAGwAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgIDglfOKWiOKWiOKWjiAgICAgICAgICAgICAgICAgICAgICAgICB8IDE1LzE4MCBbMDA6MDE8MDA6MTYsICA5LjgzaXQvc117CwAAAAAAAOELAAAAAAAAbAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAgOSV84paI4paI4paNICAgICAgICAgICAgICAgICAgICAgICAgIHwgMTYvMTgwIFswMDowMTwwMDoxNiwgIDkuODNpdC9zXXsLAAAAAAAA4QsAAAAAAABsAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogICA5JXzilojilojilosgICAgICAgICAgICAgICAgICAgICAgICAgfCAxNy8xODAgWzAwOjAxPDAwOjE2LCAgOS43OWl0L3NdewsAAAAAAADhCwAAAAAAAGwAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMTAlfOKWiOKWiOKWiiAgICAgICAgICAgICAgICAgICAgICAgICB8IDE4LzE4MCBbMDA6MDE8MDA6MTYsICA5LjgwaXQvc117CwAAAAAAAOELAAAAAAAAbAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAxMSV84paI4paI4paJICAgICAgICAgICAgICAgICAgICAgICAgIHwgMTkvMTgwIFswMDowMTwwMDoxNiwgIDkuODBpdC9zXXsLAAAAAAAA4QsAAAAAAABsAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDExJXzilojilojiloggICAgICAgICAgICAgICAgICAgICAgICAgfCAyMC8xODAgWzAwOjAyPDAwOjE2LCAgOS43OGl0L3NdewsAAAAAAADhCwAAAAAAAG4AAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMTIlfOKWiOKWiOKWiOKWjiAgICAgICAgICAgICAgICAgICAgICAgIHwgMjEvMTgwIFswMDowMjwwMDoxNiwgIDkuNzdpdC9zXXsLAAAAAAAA4QsAAAAAAABuAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDEyJXzilojilojilojilo0gICAgICAgICAgICAgICAgICAgICAgICB8IDIyLzE4MCBbMDA6MDI8MDA6MTYsICA5Ljc0aXQvc117CwAAAAAAAOELAAAAAAAAbgAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAxMyV84paI4paI4paI4paMICAgICAgICAgICAgICAgICAgICAgICAgfCAyMy8xODAgWzAwOjAyPDAwOjE2LCAgOS43Nml0L3Nd",
+					"AQAAAAAAAAABAAAA4AsAAAAAAADgCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					466,
+					20,
+					"terminus_render",
+					null,
+					"FAAAAHsLAAAAAAAA4QsAAAAAAABuAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDEzJXzilojilojilojilosgICAgICAgICAgICAgICAgICAgICAgICB8IDI0LzE4MCBbMDA6MDI8MDA6MTYsICA5Ljc0aXQvc117CwAAAAAAAOELAAAAAAAAbgAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAxNCV84paI4paI4paI4paJICAgICAgICAgICAgICAgICAgICAgICAgfCAyNS8xODAgWzAwOjAyPDAwOjE1LCAgOS43M2l0L3NdewsAAAAAAADhCwAAAAAAAG4AAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMTQlfOKWiOKWiOKWiOKWiCAgICAgICAgICAgICAgICAgICAgICAgIHwgMjYvMTgwIFswMDowMjwwMDoxNSwgIDkuNzhpdC9zXXsLAAAAAAAA4QsAAAAAAABwAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDE1JXzilojilojilojilojilo8gICAgICAgICAgICAgICAgICAgICAgIHwgMjcvMTgwIFswMDowMjwwMDoxNSwgIDkuODNpdC9zXXsLAAAAAAAA4QsAAAAAAABwAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDE2JXzilojilojilojilojilo4gICAgICAgICAgICAgICAgICAgICAgIHwgMjgvMTgwIFswMDowMjwwMDoxNSwgIDkuODFpdC9zXXsLAAAAAAAA4QsAAAAAAABwAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDE2JXzilojilojilojilojilowgICAgICAgICAgICAgICAgICAgICAgIHwgMjkvMTgwIFswMDowMjwwMDoxNSwgIDkuODJpdC9zXXsLAAAAAAAA4QsAAAAAAABwAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDE3JXzilojilojilojilojilosgICAgICAgICAgICAgICAgICAgICAgIHwgMzAvMTgwIFswMDowMzwwMDoxNSwgIDkuODJpdC9zXXsLAAAAAAAA4QsAAAAAAABwAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDE3JXzilojilojilojilojiloogICAgICAgICAgICAgICAgICAgICAgIHwgMzEvMTgwIFswMDowMzwwMDoxNSwgIDkuODNpdC9zXXsLAAAAAAAA4QsAAAAAAABwAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDE4JXzilojilojilojilojilokgICAgICAgICAgICAgICAgICAgICAgIHwgMzIvMTgwIFswMDowMzwwMDoxNSwgIDkuODNpdC9zXXsLAAAAAAAA4QsAAAAAAAByAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDE4JXzilojilojilojilojilojilo8gICAgICAgICAgICAgICAgICAgICAgfCAzMy8xODAgWzAwOjAzPDAwOjE0LCAgOS44M2l0L3NdewsAAAAAAADhCwAAAAAAAHIAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMTklfOKWiOKWiOKWiOKWiOKWiOKWjiAgICAgICAgICAgICAgICAgICAgICB8IDM0LzE4MCBbMDA6MDM8MDA6MTQsICA5LjgzaXQvc117CwAAAAAAAOELAAAAAAAAcgAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAxOSV84paI4paI4paI4paI4paI4paNICAgICAgICAgICAgICAgICAgICAgIHwgMzUvMTgwIFswMDowMzwwMDoxNCwgIDkuODJpdC9zXXsLAAAAAAAA4QsAAAAAAAByAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDIwJXzilojilojilojilojilojilowgICAgICAgICAgICAgICAgICAgICAgfCAzNi8xODAgWzAwOjAzPDAwOjE0LCAgOS43OGl0L3NdewsAAAAAAADhCwAAAAAAAHIAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMjElfOKWiOKWiOKWiOKWiOKWiOKWiiAgICAgICAgICAgICAgICAgICAgICB8IDM3LzE4MCBbMDA6MDM8MDA6MTQsICA5LjgxaXQvc117CwAAAAAAAOELAAAAAAAAcgAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAyMSV84paI4paI4paI4paI4paI4paJICAgICAgICAgICAgICAgICAgICAgIHwgMzgvMTgwIFswMDowMzwwMDoxNCwgIDkuODVpdC9zXXsLAAAAAAAA4QsAAAAAAAByAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDIyJXzilojilojilojilojilojiloggICAgICAgICAgICAgICAgICAgICAgfCAzOS8xODAgWzAwOjAzPDAwOjE0LCAgOS44NWl0L3NdewsAAAAAAADhCwAAAAAAAHQAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMjIlfOKWiOKWiOKWiOKWiOKWiOKWiOKWjyAgICAgICAgICAgICAgICAgICAgIHwgNDAvMTgwIFswMDowNDwwMDoxNCwgIDkuODdpdC9zXXsLAAAAAAAA4QsAAAAAAAB0AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDIzJXzilojilojilojilojilojilojilo0gICAgICAgICAgICAgICAgICAgICB8IDQxLzE4MCBbMDA6MDQ8MDA6MTQsICA5Ljg1aXQvc117CwAAAAAAAOELAAAAAAAAdAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAyMyV84paI4paI4paI4paI4paI4paI4paMICAgICAgICAgICAgICAgICAgICAgfCA0Mi8xODAgWzAwOjA0PDAwOjE0LCAgOS43N2l0L3NdewsAAAAAAADhCwAAAAAAAHQAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMjQlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiyAgICAgICAgICAgICAgICAgICAgIHwgNDMvMTgwIFswMDowNDwwMDoxNCwgIDkuNzhpdC9zXQ",
+					"AQAAAAAAAAABAAAA4QsAAAAAAADhCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					467,
+					20,
+					"terminus_render",
+					null,
+					"FAAAAHsLAAAAAAAA4QsAAAAAAAB0AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDI0JXzilojilojilojilojilojilojiloogICAgICAgICAgICAgICAgICAgICB8IDQ0LzE4MCBbMDA6MDQ8MDA6MTMsICA5Ljc5aXQvc117CwAAAAAAAOELAAAAAAAAdAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAyNSV84paI4paI4paI4paI4paI4paI4paIICAgICAgICAgICAgICAgICAgICAgfCA0NS8xODAgWzAwOjA0PDAwOjEzLCAgOS44MWl0L3NdewsAAAAAAADhCwAAAAAAAHYAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMjYlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjyAgICAgICAgICAgICAgICAgICAgfCA0Ni8xODAgWzAwOjA0PDAwOjEzLCAgOS44M2l0L3NdewsAAAAAAADhCwAAAAAAAHYAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMjYlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjiAgICAgICAgICAgICAgICAgICAgfCA0Ny8xODAgWzAwOjA0PDAwOjEzLCAgOS44NGl0L3NdewsAAAAAAADhCwAAAAAAAHYAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMjclfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjSAgICAgICAgICAgICAgICAgICAgfCA0OC8xODAgWzAwOjA0PDAwOjEzLCAgOS44Mml0L3NdewsAAAAAAADhCwAAAAAAAHYAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMjclfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjCAgICAgICAgICAgICAgICAgICAgfCA0OS8xODAgWzAwOjA1PDAwOjEzLCAgOS44NGl0L3NdewsAAAAAAADhCwAAAAAAAHYAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMjglfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiiAgICAgICAgICAgICAgICAgICAgfCA1MC8xODAgWzAwOjA1PDAwOjEzLCAgOS44M2l0L3NdewsAAAAAAADhCwAAAAAAAHYAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMjglfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiSAgICAgICAgICAgICAgICAgICAgfCA1MS8xODAgWzAwOjA1PDAwOjEzLCAgOS44Nml0L3NdewsAAAAAAADhCwAAAAAAAHYAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMjklfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiCAgICAgICAgICAgICAgICAgICAgfCA1Mi8xODAgWzAwOjA1PDAwOjEyLCAgOS44OGl0L3NdewsAAAAAAADhCwAAAAAAAHgAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMjklfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjyAgICAgICAgICAgICAgICAgICB8IDUzLzE4MCBbMDA6MDU8MDA6MTIsICA5Ljg5aXQvc117CwAAAAAAAOELAAAAAAAAeAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAzMCV84paI4paI4paI4paI4paI4paI4paI4paI4paNICAgICAgICAgICAgICAgICAgIHwgNTQvMTgwIFswMDowNTwwMDoxMiwgIDkuODVpdC9zXXsLAAAAAAAA4QsAAAAAAAB4AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDMxJXzilojilojilojilojilojilojilojilojilowgICAgICAgICAgICAgICAgICAgfCA1NS8xODAgWzAwOjA1PDAwOjEyLCAgOS44N2l0L3NdewsAAAAAAADhCwAAAAAAAHgAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMzElfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiyAgICAgICAgICAgICAgICAgICB8IDU2LzE4MCBbMDA6MDU8MDA6MTIsICA5Ljg4aXQvc117CwAAAAAAAOELAAAAAAAAeAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAzMiV84paI4paI4paI4paI4paI4paI4paI4paI4paKICAgICAgICAgICAgICAgICAgIHwgNTcvMTgwIFswMDowNTwwMDoxMiwgIDkuODlpdC9zXXsLAAAAAAAA4QsAAAAAAAB4AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDMyJXzilojilojilojilojilojilojilojilojiloggICAgICAgICAgICAgICAgICAgfCA1OC8xODAgWzAwOjA1PDAwOjEyLCAgOS45MGl0L3NdewsAAAAAAADhCwAAAAAAAHoAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMzMlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjyAgICAgICAgICAgICAgICAgIHwgNTkvMTgwIFswMDowNjwwMDoxMiwgIDkuODVpdC9zXXsLAAAAAAAA4QsAAAAAAAB6AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDMzJXzilojilojilojilojilojilojilojilojilojilo4gICAgICAgICAgICAgICAgICB8IDYwLzE4MCBbMDA6MDY8MDA6MTIsICA5Ljc4aXQvc117CwAAAAAAAOELAAAAAAAAegAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAzNCV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paNICAgICAgICAgICAgICAgICAgfCA2MS8xODAgWzAwOjA2PDAwOjEyLCAgOS43Nml0L3NdewsAAAAAAADhCwAAAAAAAHoAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMzQlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiyAgICAgICAgICAgICAgICAgIHwgNjIvMTgwIFswMDowNjwwMDoxMiwgIDkuODJpdC9zXXsLAAAAAAAA4QsAAAAAAAB6AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDM1JXzilojilojilojilojilojilojilojilojilojiloogICAgICAgICAgICAgICAgICB8IDYzLzE4MCBbMDA6MDY8MDA6MTEsICA5LjgyaXQvc10",
+					"AQAAAAAAAAABAAAA4QsAAAAAAADhCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					468,
+					12,
+					"terminus_render",
+					null,
+					"DAAAAHsLAAAAAAAA4QsAAAAAAAB6AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDM2JXzilojilojilojilojilojilojilojilojilojilokgICAgICAgICAgICAgICAgICB8IDY0LzE4MCBbMDA6MDY8MDA6MTEsICA5Ljg3aXQvc117CwAAAAAAAOELAAAAAAAAegAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICAzNiV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paIICAgICAgICAgICAgICAgICAgfCA2NS8xODAgWzAwOjA2PDAwOjExLCAgOS44OWl0L3NdewsAAAAAAADhCwAAAAAAAHwAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMzclfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjSAgICAgICAgICAgICAgICAgfCA2Ny8xODAgWzAwOjA2PDAwOjExLCAgOS45M2l0L3NdewsAAAAAAADhCwAAAAAAAHwAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMzglfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjCAgICAgICAgICAgICAgICAgfCA2OC8xODAgWzAwOjA2PDAwOjExLCAgOS45Mml0L3NdewsAAAAAAADhCwAAAAAAAHwAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMzklfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiSAgICAgICAgICAgICAgICAgfCA3MC8xODAgWzAwOjA3PDAwOjEwLCAxMC4wMWl0L3NdewsAAAAAAADhCwAAAAAAAHwAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgMzklfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiCAgICAgICAgICAgICAgICAgfCA3MS8xODAgWzAwOjA3PDAwOjEwLCAxMC4wMGl0L3NdewsAAAAAAADhCwAAAAAAAH4AAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgNDElfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjiAgICAgICAgICAgICAgICB8IDczLzE4MCBbMDA6MDc8MDA6MTAsICA5Ljk5aXQvc117CwAAAAAAAOELAAAAAAAAfgAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA0MSV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paMICAgICAgICAgICAgICAgIHwgNzQvMTgwIFswMDowNzwwMDoxMCwgIDkuOThpdC9zXXsLAAAAAAAA4QsAAAAAAAB+AAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDQyJXzilojilojilojilojilojilojilojilojilojilojilojiloogICAgICAgICAgICAgICAgfCA3Ni8xODAgWzAwOjA3PDAwOjEwLCAxMC4wMWl0L3NdewsAAAAAAADhCwAAAAAAAIAAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgNDMlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjyAgICAgICAgICAgICAgIHwgNzgvMTgwIFswMDowNzwwMDoxMCwgMTAuMDZpdC9zXXsLAAAAAAAA4QsAAAAAAACAAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDQ0JXzilojilojilojilojilojilojilojilojilojilojilojilojilo0gICAgICAgICAgICAgICB8IDgwLzE4MCBbMDA6MDg8MDA6MDksIDEwLjA1aXQvc117CwAAAAAAAOELAAAAAAAAgAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA0NiV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paKICAgICAgICAgICAgICAgfCA4Mi8xODAgWzAwOjA4PDAwOjA5LCAxMC4wN2l0L3Nd",
+					"AQAAAAAAAAABAAAA4QsAAAAAAADhCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					469,
+					11,
+					"terminus_render",
+					null,
+					"CwAAAHsLAAAAAAAA4QsAAAAAAACAAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDQ3JXzilojilojilojilojilojilojilojilojilojilojilojilojiloggICAgICAgICAgICAgICB8IDg0LzE4MCBbMDA6MDg8MDA6MDksIDEwLjA2aXQvc117CwAAAAAAAOELAAAAAAAAggAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA0OCV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paNICAgICAgICAgICAgICB8IDg2LzE4MCBbMDA6MDg8MDA6MDksIDEwLjA0aXQvc117CwAAAAAAAOELAAAAAAAAggAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA0OSV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paLICAgICAgICAgICAgICB8IDg4LzE4MCBbMDA6MDg8MDA6MDksIDEwLjA0aXQvc117CwAAAAAAAOELAAAAAAAAggAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA1MCV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paIICAgICAgICAgICAgICB8IDkwLzE4MCBbMDA6MDk8MDA6MDgsIDEwLjA5aXQvc117CwAAAAAAAOELAAAAAAAAhAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA1MSV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paOICAgICAgICAgICAgIHwgOTIvMTgwIFswMDowOTwwMDowOCwgMTAuMTBpdC9zXXsLAAAAAAAA4QsAAAAAAACEAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDUyJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilowgICAgICAgICAgICAgfCA5NC8xODAgWzAwOjA5PDAwOjA4LCAxMC4wNml0L3NdewsAAAAAAADhCwAAAAAAAIQAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgNTMlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiSAgICAgICAgICAgICB8IDk2LzE4MCBbMDA6MDk8MDA6MDgsIDEwLjA2aXQvc117CwAAAAAAAOELAAAAAAAAhgAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA1NCV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paPICAgICAgICAgICAgfCA5OC8xODAgWzAwOjA5PDAwOjA4LCAxMC4wOWl0L3NdewsAAAAAAADhCwAAAAAAAIQAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgNTYlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiCAgICAgICAgICAgIHwgMTAwLzE4MCBbMDA6MTA8MDA6MDcsIDEwLjAxaXQvc117CwAAAAAAAOELAAAAAAAAhgAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA1NyV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paOICAgICAgICAgICB8IDEwMi8xODAgWzAwOjEwPDAwOjA3LCAxMC4wMml0L3NdewsAAAAAAADhCwAAAAAAAIYAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgNTglfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjCAgICAgICAgICAgfCAxMDQvMTgwIFswMDoxMDwwMDowNywgMTAuMDNpdC9zXQ",
+					"AQAAAAAAAAABAAAA4QsAAAAAAADhCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					470,
+					11,
+					"terminus_render",
+					null,
+					"CwAAAHsLAAAAAAAA4QsAAAAAAACGAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDU5JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilokgICAgICAgICAgIHwgMTA2LzE4MCBbMDA6MTA8MDA6MDcsIDEwLjAyaXQvc117CwAAAAAAAOELAAAAAAAAiAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA2MCV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paPICAgICAgICAgIHwgMTA4LzE4MCBbMDA6MTA8MDA6MDcsIDEwLjA2aXQvc117CwAAAAAAAOELAAAAAAAAiAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA2MSV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paMICAgICAgICAgIHwgMTEwLzE4MCBbMDA6MTE8MDA6MDYsIDEwLjAwaXQvc117CwAAAAAAAOELAAAAAAAAiAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA2MiV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paKICAgICAgICAgIHwgMTEyLzE4MCBbMDA6MTE8MDA6MDYsIDEwLjAwaXQvc117CwAAAAAAAOELAAAAAAAAiAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA2MyV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paIICAgICAgICAgIHwgMTE0LzE4MCBbMDA6MTE8MDA6MDYsIDEwLjAzaXQvc117CwAAAAAAAOELAAAAAAAAigAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA2NCV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paNICAgICAgICAgfCAxMTYvMTgwIFswMDoxMTwwMDowNiwgMTAuMDZpdC9zXXsLAAAAAAAA4QsAAAAAAACKAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDY2JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilosgICAgICAgICB8IDExOC8xODAgWzAwOjExPDAwOjA2LCAxMC4wM2l0L3NdewsAAAAAAADhCwAAAAAAAIoAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgNjclfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiCAgICAgICAgIHwgMTIwLzE4MCBbMDA6MTI8MDA6MDUsIDEwLjA0aXQvc117CwAAAAAAAOELAAAAAAAAjAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA2OCV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paOICAgICAgICB8IDEyMi8xODAgWzAwOjEyPDAwOjA1LCAxMC4wN2l0L3NdewsAAAAAAADhCwAAAAAAAIwAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgNjklfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjCAgICAgICAgfCAxMjQvMTgwIFswMDoxMjwwMDowNSwgMTAuMDFpdC9zXXsLAAAAAAAA4QsAAAAAAACMAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDcwJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilokgICAgICAgIHwgMTI2LzE4MCBbMDA6MTI8MDA6MDUsIDEwLjAwaXQvc10",
+					"AQAAAAAAAAABAAAA4QsAAAAAAADhCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					471,
+					16,
+					"terminus_render",
+					null,
+					"EAAAAHsLAAAAAAAA4QsAAAAAAACOAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDcxJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilo8gICAgICAgfCAxMjgvMTgwIFswMDoxMjwwMDowNSwgMTAuMDJpdC9zXXsLAAAAAAAA4QsAAAAAAACOAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDcyJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilowgICAgICAgfCAxMzAvMTgwIFswMDoxMzwwMDowNSwgMTAuMDBpdC9zXXsLAAAAAAAA4QsAAAAAAACOAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDczJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojiloogICAgICAgfCAxMzIvMTgwIFswMDoxMzwwMDowNCwgMTAuMDNpdC9zXXsLAAAAAAAA4QsAAAAAAACOAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDc0JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojiloggICAgICAgfCAxMzQvMTgwIFswMDoxMzwwMDowNCwgIDkuOTZpdC9zXXsLAAAAAAAA4QsAAAAAAACQAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDc1JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilo4gICAgICB8IDEzNS8xODAgWzAwOjEzPDAwOjA0LCAgOS45NWl0L3NdewsAAAAAAADhCwAAAAAAAJAAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgNzYlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjCAgICAgIHwgMTM3LzE4MCBbMDA6MTM8MDA6MDQsICA5Ljk3aXQvc117CwAAAAAAAOELAAAAAAAAkAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA3NyV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paLICAgICAgfCAxMzgvMTgwIFswMDoxMzwwMDowNCwgIDkuOTZpdC9zXXsLAAAAAAAA4QsAAAAAAACQAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDc3JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojiloogICAgICB8IDEzOS8xODAgWzAwOjE0PDAwOjA0LCAgOS45Nml0L3NdewsAAAAAAADhCwAAAAAAAJAAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgNzglfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiCAgICAgIHwgMTQwLzE4MCBbMDA6MTQ8MDA6MDQsICA5Ljk1aXQvc117CwAAAAAAAOELAAAAAAAAkgAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA3OCV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paPICAgICB8IDE0MS8xODAgWzAwOjE0PDAwOjAzLCAgOS45Mml0L3NdewsAAAAAAADhCwAAAAAAAJIAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgNzklfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjSAgICAgfCAxNDMvMTgwIFswMDoxNDwwMDowMywgIDkuOTZpdC9zXXsLAAAAAAAA4QsAAAAAAACSAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDgwJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilowgICAgIHwgMTQ0LzE4MCBbMDA6MTQ8MDA6MDMsICA5Ljk2aXQvc117CwAAAAAAAOELAAAAAAAAkgAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA4MSV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paKICAgICB8IDE0NS8xODAgWzAwOjE0PDAwOjAzLCAgOS45Nml0L3NdewsAAAAAAADhCwAAAAAAAJIAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgODIlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiCAgICAgfCAxNDcvMTgwIFswMDoxNDwwMDowMywgMTAuMDFpdC9zXXsLAAAAAAAA4QsAAAAAAACUAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDgyJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilo8gICAgfCAxNDgvMTgwIFswMDoxNDwwMDowMywgIDkuOTVpdC9zXXsLAAAAAAAA4QsAAAAAAACUAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDgzJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilo4gICAgfCAxNDkvMTgwIFswMDoxNTwwMDowMywgIDkuOTFpdC9zXQ",
+					"AQAAAAAAAAABAAAA4QsAAAAAAADhCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					472,
+					16,
+					"terminus_render",
+					null,
+					"EAAAAHsLAAAAAAAA4QsAAAAAAACUAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDgzJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilowgICAgfCAxNTAvMTgwIFswMDoxNTwwMDowMywgIDkuODhpdC9zXXsLAAAAAAAA4QsAAAAAAACUAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDg0JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilosgICAgfCAxNTEvMTgwIFswMDoxNTwwMDowMiwgIDkuOTFpdC9zXXsLAAAAAAAA4QsAAAAAAACUAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDg1JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilokgICAgfCAxNTMvMTgwIFswMDoxNTwwMDowMiwgIDkuOThpdC9zXXsLAAAAAAAA4QsAAAAAAACUAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDg2JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojiloggICAgfCAxNTQvMTgwIFswMDoxNTwwMDowMiwgIDkuOTZpdC9zXXsLAAAAAAAA4QsAAAAAAACWAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDg2JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilo4gICB8IDE1NS8xODAgWzAwOjE1PDAwOjAyLCAgOS45NWl0L3NdewsAAAAAAADhCwAAAAAAAJYAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgODclfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjSAgIHwgMTU2LzE4MCBbMDA6MTU8MDA6MDIsICA5Ljk2aXQvc117CwAAAAAAAOELAAAAAAAAlgAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA4OCV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paLICAgfCAxNTgvMTgwIFswMDoxNTwwMDowMiwgMTAuMDBpdC9zXXsLAAAAAAAA4QsAAAAAAACWAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDg5JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojiloggICB8IDE2MC8xODAgWzAwOjE2PDAwOjAxLCAxMC4wMWl0L3NdewsAAAAAAADhCwAAAAAAAJgAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgODklfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjyAgfCAxNjEvMTgwIFswMDoxNjwwMDowMSwgIDkuOThpdC9zXXsLAAAAAAAA4QsAAAAAAACYAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDkwJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilo4gIHwgMTYyLzE4MCBbMDA6MTY8MDA6MDEsICA5Ljk1aXQvc117CwAAAAAAAOELAAAAAAAAmAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA5MSV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paNICB8IDE2My8xODAgWzAwOjE2PDAwOjAxLCAgOS45NWl0L3NdewsAAAAAAADhCwAAAAAAAJgAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgOTElfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWjCAgfCAxNjQvMTgwIFswMDoxNjwwMDowMSwgIDkuOTVpdC9zXXsLAAAAAAAA4QsAAAAAAACYAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDkyJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojiloogIHwgMTY1LzE4MCBbMDA6MTY8MDA6MDEsICA5LjkyaXQvc117CwAAAAAAAOELAAAAAAAAmAAAAEFuaW1hdGlvbiAwOiBUcmFuc2Zvcm0oU1ZHTW9iamVjdCk6ICA5MiV84paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paJICB8IDE2Ni8xODAgWzAwOjE2PDAwOjAxLCAgOS44Nml0L3NdewsAAAAAAADhCwAAAAAAAJgAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgOTMlfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiCAgfCAxNjcvMTgwIFswMDoxNjwwMDowMSwgIDkuODZpdC9zXXsLAAAAAAAA4QsAAAAAAACaAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDkzJXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilo8gfCAxNjgvMTgwIFswMDoxNjwwMDowMSwgIDkuODdpdC9zXQ",
+					"AQAAAAAAAAABAAAA4QsAAAAAAADhCwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					473,
+					10,
+					"terminus_render",
+					null,
+					"hAAAAHsLAAAAAAAA4QsAAAAAAACaAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDk0JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilowgfCAxNzAvMTgwIFswMDoxNzwwMDowMSwgIDkuOThpdC9zXXsLAAAAAAAA4QsAAAAAAACaAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDk1JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilosgfCAxNzEvMTgwIFswMDoxNzwwMDowMCwgIDkuOTRpdC9zXXsLAAAAAAAA4QsAAAAAAACaAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDk2JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojiloogfCAxNzIvMTgwIFswMDoxNzwwMDowMCwgIDkuOTJpdC9zXXsLAAAAAAAA4QsAAAAAAACaAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDk2JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilokgfCAxNzMvMTgwIFswMDoxNzwwMDowMCwgIDkuOTFpdC9zXXsLAAAAAAAA4QsAAAAAAACaAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDk3JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojiloggfCAxNzQvMTgwIFswMDoxNzwwMDowMCwgIDkuOTBpdC9zXXsLAAAAAAAA4QsAAAAAAACcAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDk4JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilo18IDE3Ni8xODAgWzAwOjE3PDAwOjAwLCAxMC4wMGl0L3NdewsAAAAAAADhCwAAAAAAAJwAAABBbmltYXRpb24gMDogVHJhbnNmb3JtKFNWR01vYmplY3QpOiAgOTklfOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKWi3wgMTc4LzE4MCBbMDA6MTc8MDA6MDAsIDEwLjAyaXQvc13DBQAAAAAAAN0FAAAAAAAAZgAAAHJzL2RhdmlkcnVnL0xpYnJhcnkvTW9iaWxlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIN0FAAAAAAAAKQYAAAAAAAAAAAAAWQUAAAAAAADCBQAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZpbGUgcmVhZHkgYXQgJy9Vc2XigIvigIzigIvyBAAAAAAAAPIEAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIPIEAAAAAAAAWAUAAAAAAAAAAAAAiAQAAAAAAADxBAAAAAAAAG8AAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIElORk/igIvigIzigIshBAAAAAAAAFYEAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgSU5GTyAgICAgQ29tYmluaW5nIHRvIE1vdmllIGZpbGUuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFYEAAAAAAAAhwQAAAAAAAAAAAAAugMAAAAAAADgAwAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDc1MzYubXA0JyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDgAwAAAAAAACAEAAAAAAAAAAAAAFMDAAAAAAAAoAMAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbF9tb3ZpZV9maWxlcy9Nb3JwaC8yOTAyNjk5MTE0XzEwMTAzOTM2MjFfOTQ3MzAgICAgICAgICAgICAgICAgICAgICAgICAgoAMAAAAAAAC5AwAAAAAAAAAAAADsAgAAAAAAADkDAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbi9TVkcyTW9ycGgvbWVkaWEvdmlkZW9zL1NWRzJNb3JwaC8xMDgwcDYwL3BhcnRpICAgICAgICAgICAgICAgICAgICAgICAgIDkDAAAAAAAAUgMAAAAAAAAAAAAAhQIAAAAAAADSAgAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERvY3VtZW50cy9pQ2xvdWR+bWR+b2JzaWRpYW4vRG9jdW1lbnRzL0ludGVyQnJhaSAgICAgICAgICAgICAgICAgICAgICAgICDSAgAAAAAAAOsCAAAAAAAAAAAAAB4CAAAAAAAAQgIAAAAAAABmAAAAICAgICAnL1VzZXJzL2RhdmlkcnVnL0xpYnJhcnkvTW9iaWxlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQgIAAAAAAACEAgAAAAAAAAAAAAAqBgAAAAAAAHcGAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRG9jdW1lbnRzL2lDbG91ZH5tZH5vYnNpZGlhbi9Eb2N1bWVudHMvSW50ZXJCcmFpICAgICAgICAgICAgICAgICAgICAgICAgIHcGAAAAAAAAkAYAAAAAAAAAAAAAkQYAAAAAAADeBgAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG4vU1ZHMk1vcnBoL21lZGlhL3ZpZGVvcy9TVkcyTW9ycGgvMTA4MHA2MC9Nb3JwaCAgICAgICAgICAgICAgICAgICAgICAgICDeBgAAAAAAAPcGAAAAAAAAAAAAAPgGAAAAAAAAGgcAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAubXA0JyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgGgcAAAAAAABeBwAAAAAAAAAAAABfBwAAAAAAAF8HAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF8HAAAAAAAAxQcAAAAAAAAAAAAAxgcAAAAAAADxBwAAAAAAAFoAAAAgICAgICAgICAgICAgICAgICAgIElORk8gICAgIFJlbmRlcmVkIE1vcnBoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDxBwAAAAAAACAIAAAAAAAAAAAAACEIAAAAAAAAiggAAAAAAABvAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4oCL4oCM4oCLiwgAAAAAAACvCAAAAAAAAFoAAAAgICAgICAgICAgICAgICAgIFBsYXllZCAxIGFuaW1hdGlvbnMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCvCAAAAAAAAOUIAAAAAAAAAAAAAOYIAAAAAAAANQkAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICBJTkZPICAgICBQcmV2aWV3ZWQgRmlsZSBhdDogJy9Vc2Vycy9kYXZpZHJ1Zy9MaWJyYXJ5L01vYmlsZSAgICAgICAgICAgICAgICAgICAgICAgNQkAAAAAAABMCQAAAAAAAAAAAABNCQAAAAAAALYJAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAi7cJAAAAAAAA/gkAAAAAAABXAAAAICAgICAgICAgICAgICBEb2N1bWVudHMvaUNsb3Vkfm1kfm9ic2lkaWFuL0RvY3VtZW50cy9JbnRlckJyYWluL1NWRzJNb3IgICAgICAgICAgICAgICAg/gkAAAAAAAAOCgAAAAAAAAAAAAAPCgAAAAAAAFgKAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGgvbWVkaWEvdmlkZW9zL1NWRzJNb3JwaC8xMDgwcDYwL01vcnBoLm1wNCcgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFgKAAAAAAAAdQoAAAAAAAAAAAAAdgoAAAAAAADCCgAAAAAAAEwAAABZb3UgYXJlIHVzaW5nIG1hbmltIHZlcnNpb24gdjAuMTcuMywgYnV0IHZlcnNpb24gdjAuMTguMC5wb3N0MCBpcyBhdmFpbGFibGUuwwoAAAAAAAD5CgAAAAAAADYAAABZb3Ugc2hvdWxkIGNvbnNpZGVyIHVwZ3JhZGluZyB2aWEgcGlwIGluc3RhbGwgLVUgbWFuaW36CgAAAAAAAFALAAAAAAAAZwAAAChtYW5pbSkgZGF2aWRydWdARGF2aWRzLU1hY0Jvb2stUHJvLTIgU1ZHMk1vcnBoICUgbWFuaW0gU1ZHMk1vcnBoLnB5IC10IC0tZm9ybWF0PSJwbmciICAgICAgICAgICAgICAgICBQCwAAAAAAAGELAAAAAAAAAAAAAGILAAAAAAAAeQsAAAAAAAAXAAAATWFuaW0gQ29tbXVuaXR5IHYwLjE3LjN6CwAAAAAAAHoLAAAAAAAAAAAAAHsLAAAAAAAAkwsAAAAAAACcAAAAQW5pbWF0aW9uIDA6IFRyYW5zZm9ybShTVkdNb2JqZWN0KTogIDk5JXzilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilojilop8IDE3OS8xODAgWzAwOjE4PDAwOjAwLCAxMC4wMWl0L3NdkwsAAAAAAADhCwAAAAAAAAAAAADhCwAAAAAAAOILAAAAAAAAAAAAAOILAAAAAAAASwwAAAAAAAAAAAAASwwAAAAAAABMDAAAAAAAAAAAAABMDAAAAAAAAGQMAAAAAAAAAAAAAGQMAAAAAAAAmgwAAAAAAAAAAAAAmgwAAAAAAACbDAAAAAAAAAAAAACbDAAAAAAAANYMAAAAAAAAAAAAANYMAAAAAAAAAQ0AAAAAAAAAAAAAAQ0AAAAAAAACDQAAAAAAAAAAAAACDQAAAAAAAE8NAAAAAAAAAAAAAE8NAAAAAAAAaA0AAAAAAAAAAAAAaA0AAAAAAABpDQAAAAAAAAAAAABpDQAAAAAAAK4NAAAAAAAAAAAAAK4NAAAAAAAAzw0AAAAAAAAAAAAAzw0AAAAAAADQDQAAAAAAAAAAAADQDQAAAAAAANANAAAAAAAAAAAAANANAAAAAAAANg4AAAAAAAAAAAAANg4AAAAAAAA3DgAAAAAAAAAAAAA3DgAAAAAAAGIOAAAAAAAAAAAAAGIOAAAAAAAAkQ4AAAAAAAAAAAAAkQ4AAAAAAACSDgAAAAAAAAAAAACSDgAAAAAAAPsOAAAAAAAAAAAAAPsOAAAAAAAA/A4AAAAAAAAAAAAA/A4AAAAAAAAgDwAAAAAAAAAAAAAgDwAAAAAAAFYPAAAAAAAAAAAAAFYPAAAAAAAAVw8AAAAAAAAAAAAAVw8AAAAAAABXDwAAAAAAAAAAAACRBgAAAAAAAN4GAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbi9TVkcyTW9ycGgvbWVkaWEvdmlkZW9zL1NWRzJNb3JwaC8xMDgwcDYwL01vcnBoICAgICAgICAgICAgICAgICAgICAgICAgIN4GAAAAAAAA9wYAAAAAAAAAAAAAKgYAAAAAAAB3BgAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERvY3VtZW50cy9pQ2xvdWR+bWR+b2JzaWRpYW4vRG9jdW1lbnRzL0ludGVyQnJhaSAgICAgICAgICAgICAgICAgICAgICAgICB3BgAAAAAAAJAGAAAAAAAAAAAAAPgGAAAAAAAAGgcAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAubXA0JyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgGgcAAAAAAABeBwAAAAAAAAAAAABfBwAAAAAAAF8HAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF8HAAAAAAAAxQcAAAAAAAAAAAAAxgcAAAAAAADxBwAAAAAAAFoAAAAgICAgICAgICAgICAgICAgICAgIElORk8gICAgIFJlbmRlcmVkIE1vcnBoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDxBwAAAAAAACAIAAAAAAAAAAAAACEIAAAAAAAAiggAAAAAAABvAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4oCL4oCM4oCLiwgAAAAAAACvCAAAAAAAAFoAAAAgICAgICAgICAgICAgICAgIFBsYXllZCAxIGFuaW1hdGlvbnMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICCvCAAAAAAAAOUIAAAAAAAAAAAAAOYIAAAAAAAANQkAAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICBJTkZPICAgICBQcmV2aWV3ZWQgRmlsZSBhdDogJy9Vc2Vycy9kYXZpZHJ1Zy9MaWJyYXJ5L01vYmlsZSAgICAgICAgICAgICAgICAgICAgICAgNQkAAAAAAABMCQAAAAAAAAAAAABNCQAAAAAAALYJAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAi7cJAAAAAAAA/gkAAAAAAABXAAAAICAgICAgICAgICAgICBEb2N1bWVudHMvaUNsb3Vkfm1kfm9ic2lkaWFuL0RvY3VtZW50cy9JbnRlckJyYWluL1NWRzJNb3IgICAgICAgICAgICAgICAg/gkAAAAAAAAOCgAAAAAAAAAAAAAPCgAAAAAAAFgKAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGgvbWVkaWEvdmlkZW9zL1NWRzJNb3JwaC8xMDgwcDYwL01vcnBoLm1wNCcgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFgKAAAAAAAAdQoAAAAAAAAAAAAAdgoAAAAAAADCCgAAAAAAAEwAAABZb3UgYXJlIHVzaW5nIG1hbmltIHZlcnNpb24gdjAuMTcuMywgYnV0IHZlcnNpb24gdjAuMTguMC5wb3N0MCBpcyBhdmFpbGFibGUuwwoAAAAAAAD5CgAAAAAAADYAAABZb3Ugc2hvdWxkIGNvbnNpZGVyIHVwZ3JhZGluZyB2aWEgcGlwIGluc3RhbGwgLVUgbWFuaW36CgAAAAAAAFALAAAAAAAAZwAAAChtYW5pbSkgZGF2aWRydWdARGF2aWRzLU1hY0Jvb2stUHJvLTIgU1ZHMk1vcnBoICUgbWFuaW0gU1ZHMk1vcnBoLnB5IC10IC0tZm9ybWF0PSJwbmciICAgICAgICAgICAgICAgICBQCwAAAAAAAGELAAAAAAAAAAAAAGILAAAAAAAAeQsAAAAAAAAXAAAATWFuaW0gQ29tbXVuaXR5IHYwLjE3LjN6CwAAAAAAAHoLAAAAAAAAAAAAAHsLAAAAAAAAkwsAAAAAAABmAAAAWzA0LzE0LzI0IDE5OjI3OjA1XSBJTkZPICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgkwsAAAAAAADhCwAAAAAAAAAAAADiCwAAAAAAAEsMAAAAAAAAbwAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKAi+KAjOKAi0wMAAAAAAAAZAwAAAAAAABOAAAAICAgICAxODAgaW1hZ2VzIHJlYWR5IGF0ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZAwAAAAAAACaDAAAAAAAAAAAAACbDAAAAAAAANYMAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgL1VzZXJzL2RhdmlkcnVnL0xpYnJhcnkvTW9iaWxlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgINYMAAAAAAAAAQ0AAAAAAAAAAAAAAg0AAAAAAABPDQAAAAAAAGYAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIERvY3VtZW50cy9pQ2xvdWR+bWR+b2JzaWRpYW4vRG9jdW1lbnRzL0ludGVyQnJhaSAgICAgICAgICAgICAgICAgICAgICAgICBPDQAAAAAAAGgNAAAAAAAAAAAAAGkNAAAAAAAArg0AAAAAAABmAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuL1NWRzJNb3JwaC9tZWRpYS9pbWFnZXMvU1ZHMk1vcnBoL01vcnBoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgrg0AAAAAAADPDQAAAAAAAAAAAADQDQAAAAAAANANAAAAAAAAZgAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgINANAAAAAAAANg4AAAAAAAAAAAAANw4AAAAAAABiDgAAAAAAAFoAAAAgICAgICAgICAgICAgICAgICAgIElORk8gICAgIFJlbmRlcmVkIE1vcnBoICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiDgAAAAAAAJEOAAAAAAAAAAAAAJIOAAAAAAAA+w4AAAAAAABvAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg4oCL4oCM4oCL/A4AAAAAAAAgDwAAAAAAAFoAAAAgICAgICAgICAgICAgICAgIFBsYXllZCAxIGFuaW1hdGlvbnMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgDwAAAAAAAFYPAAAAAAAAAAAAAFcPAAAAAAAAow8AAAAAAAAAAAAAow8AAAAAAACkDwAAAAAAAAAAAACkDwAAAAAAANoPAAAAAAAAAAAAANoPAAAAAAAA2w8AAAAAAAAAAAAA2w8AAAAAAADbDwAAAAAAAAAAAADbDwAAAAAAAAwQAAAAAAAAAAAAAAwQAAAAAAAAQRAAAAAAAAAAAAAADRAAAAAAAAANEAAAAAAAADQAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAA4QsAAAAAAADhCwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "(base) davidrug@Davids-MacBook-Pro-2 SVG2Morph % png2video Morph 30                                   \nffmpeg version 6.1.1 Copyright (c) 2000-2023 the FFmpeg developers\n  built with Apple clang version 15.0.0 (clang-1500.3.9.4)\n  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg/6.1.1_7 --enable-shared --enable-pthreads --enab​‌​\nle-version3 --cc=clang --host-cflags= --host-ldflags='-Wl,-ld_classic' --enable-ffplay --enable-gnutls​‌​\n --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libhar​‌​\nfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-librav1e --enable-librist --enable​‌​\n-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesse​‌​\nract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enab​‌​\nle-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-​‌​\nlibfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable​‌​\n-libopencore-amrwb --enable-libopenjpeg --enable-libopenvino --enable-libspeex --enable-libsoxr --enab\nle-libzmq --enable-libzimg --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audio\ntoolbox --enable-neon\n  libavutil      58. 29.100 / 58. 29.100\n  libavcodec     60. 31.102 / 60. 31.102\n  libavformat    60. 16.100 / 60. 16.100\n  libavdevice    60.  3.100 / 60.  3.100\n  libavfilter     9. 12.100 /  9. 12.100\n  libswscale      7.  5.100 /  7.  5.100\n  libswresample   4. 12.100 /  4. 12.100\n  libpostproc    57.  3.100 / 57.  3.100\nInput #0, image2, from 'Morph%04d.png':\n  Duration: 00:00:07.20, start: 0.000000, bitrate: N/A\n  Stream #0:0: Video: png, rgba(pc, gbr/unknown/unknown), 1920x1080, 25 fps, 25 tbr, 25 tbn\nStream mapping:\n  Stream #0:0 -> #0:0 (png (native) -> prores (prores_ks))\nPress [q] to stop, [?] for help\nOutput #0, mov, to 'Morph.mov':\n  Metadata:\n    encoder         : Lavf60.16.100\n  Stream #0:0: Video: prores (4444) (ap4h / 0x68347061), yuva444p10le(tv, progressive), 1920x1080, q=2\n-31, 200 kb/s, 30 fps, 15360 tbn\n    Metadata:\n      encoder         : Lavc60.31.102 prores_ks\n[out#0/mov @ 0x600002f146c0] video:14297kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB\n muxing overhead: 0.010752%\nframe=  180 fps= 76 q=-0.0 Lsize=   14298kB time=00:00:05.96 bitrate=19630.9kbits/s speed=2.53x    \n(base) davidrug@Davids-MacBook-Pro-2 SVG2Morph % ",
+			"settings":
+			{
+				"buffer_size": 2485,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					77,
+					2,
+					"terminus_render",
+					null,
+					"JQAAADUEAAAAAAAAmwQAAAAAAABvAAAALWxpYm9wZW5jb3JlLWFtcndiIC0tZW5hYmxlLWxpYm9wZW5qcGVnIC0tZW5hYmxlLWxpYm9wZW52aW5vIC0tZW5hYmxlLWxpYnNwZWV4IC0tZW5hYmxlLWxpYnNveHIgLS1lbmFi4oCL4oCM4oCLnAQAAAAAAAACBQAAAAAAAG8AAABsZS1saWJ6bXEgLS1lbmFibGUtbGliemltZyAtLWRpc2FibGUtbGliamFjayAtLWRpc2FibGUtaW5kZXY9amFjayAtLWVuYWJsZS12aWRlb3Rvb2xib3ggLS1lbmFibGUtYXVkaW/igIvigIzigIsDBQAAAAAAABgFAAAAAAAAFQAAAHRvb2xib3ggLS1lbmFibGUtbmVvbhkFAAAAAAAAQQUAAAAAAAAoAAAAICBsaWJhdnV0aWwgICAgICA1OC4gMjkuMTAwIC8gNTguIDI5LjEwMEIFAAAAAAAAagUAAAAAAAAoAAAAICBsaWJhdmNvZGVjICAgICA2MC4gMzEuMTAyIC8gNjAuIDMxLjEwMmsFAAAAAAAAkwUAAAAAAAAoAAAAICBsaWJhdmZvcm1hdCAgICA2MC4gMTYuMTAwIC8gNjAuIDE2LjEwMJQFAAAAAAAAvAUAAAAAAAAoAAAAICBsaWJhdmRldmljZSAgICA2MC4gIDMuMTAwIC8gNjAuICAzLjEwML0FAAAAAAAA5QUAAAAAAAAoAAAAICBsaWJhdmZpbHRlciAgICAgOS4gMTIuMTAwIC8gIDkuIDEyLjEwMOYFAAAAAAAADgYAAAAAAAAoAAAAICBsaWJzd3NjYWxlICAgICAgNy4gIDUuMTAwIC8gIDcuICA1LjEwMA8GAAAAAAAANwYAAAAAAAAoAAAAICBsaWJzd3Jlc2FtcGxlICAgNC4gMTIuMTAwIC8gIDQuIDEyLjEwMDgGAAAAAAAAYAYAAAAAAAAoAAAAICBsaWJwb3N0cHJvYyAgICA1Ny4gIDMuMTAwIC8gNTcuICAzLjEwMGEGAAAAAAAAiAYAAAAAAAAnAAAASW5wdXQgIzAsIGltYWdlMiwgZnJvbSAnTW9ycGglMDRkLnBuZyc6iQYAAAAAAAC/BgAAAAAAADYAAAAgIER1cmF0aW9uOiAwMDowMDowNy4yMCwgc3RhcnQ6IDAuMDAwMDAwLCBiaXRyYXRlOiBOL0HABgAAAAAAABsHAAAAAAAAWwAAACAgU3RyZWFtICMwOjA6IFZpZGVvOiBwbmcsIHJnYmEocGMsIGdici91bmtub3duL3Vua25vd24pLCAxOTIweDEwODAsIDI1IGZwcywgMjUgdGJyLCAyNSB0Ym4cBwAAAAAAACsHAAAAAAAADwAAAFN0cmVhbSBtYXBwaW5nOiwHAAAAAAAAZgcAAAAAAAA6AAAAICBTdHJlYW0gIzA6MCAtPiAjMDowIChwbmcgKG5hdGl2ZSkgLT4gcHJvcmVzIChwcm9yZXNfa3MpKWcHAAAAAAAAhgcAAAAAAAAfAAAAUHJlc3MgW3FdIHRvIHN0b3AsIFs/XSBmb3IgaGVscIcHAAAAAAAApgcAAAAAAAAfAAAAT3V0cHV0ICMwLCBtb3YsIHRvICdNb3JwaC5tb3YnOqcHAAAAAAAAsgcAAAAAAAALAAAAICBNZXRhZGF0YTqzBwAAAAAAANYHAAAAAAAAIwAAACAgICBlbmNvZGVyICAgICAgICAgOiBMYXZmNjAuMTYuMTAw1wcAAAAAAAA9CAAAAAAAAG8AAAAgIFN0cmVhbSAjMDowOiBWaWRlbzogcHJvcmVzICg0NDQ0KSAoYXA0aCAvIDB4NjgzNDcwNjEpLCB5dXZhNDQ0cDEwbGUodHYsIHByb2dyZXNzaXZlKSwgMTkyMHgxMDgwLCBxPTLigIvigIzigIs+CAAAAAAAAF4IAAAAAAAAIAAAAC0zMSwgMjAwIGtiL3MsIDMwIGZwcywgMTUzNjAgdGJuXwgAAAAAAABsCAAAAAAAAA0AAAAgICAgTWV0YWRhdGE6bQgAAAAAAACcCAAAAAAAAC8AAAAgICAgICBlbmNvZGVyICAgICAgICAgOiBMYXZjNjAuMzEuMTAyIHByb3Jlc19rc50IAAAAAAAAAwkAAAAAAABvAAAAW291dCMwL21vdiBAIDB4NjAwMDAyZjE0NmMwXSB2aWRlbzoxNDI5N2tCIGF1ZGlvOjBrQiBzdWJ0aXRsZTowa0Igb3RoZXIgc3RyZWFtczowa0IgZ2xvYmFsIGhlYWRlcnM6MGtC4oCL4oCM4oCLBAkAAAAAAAAfCQAAAAAAABsAAAAgbXV4aW5nIG92ZXJoZWFkOiAwLjAxMDc1MiUgCQAAAAAAAH8JAAAAAAAAYwAAAGZyYW1lPSAgMTgwIGZwcz0gNzYgcT0tMC4wIExzaXplPSAgIDE0Mjk4a0IgdGltZT0wMDowMDowNS45NiBiaXRyYXRlPTE5NjMwLjlrYml0cy9zIHNwZWVkPTIuNTN4ICAgIH8JAAAAAAAAgwkAAAAAAAAAAAAAhAkAAAAAAAC0CQAAAAAAADEAAAAoYmFzZSkgZGF2aWRydWdARGF2aWRzLU1hY0Jvb2stUHJvLTIgU1ZHMk1vcnBoICUgtAkAAAAAAADqCQAAAAAAAAAAAADqCQAAAAAAAOsJAAAAAAAAAAAAAOsJAAAAAAAA6wkAAAAAAAAAAAAA6gkAAAAAAADqCQAAAAAAAAEAAAAKtQkAAAAAAAC1CQAAAAAAADUAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIIQJAAAAAAAAtAkAAAAAAAAxAAAAKGJhc2UpIGRhdmlkcnVnQERhdmlkcy1NYWNCb29rLVByby0yIFNWRzJNb3JwaCAlILQJAAAAAAAA6gkAAAAAAAAAAAAAtQkAAAAAAAC1CQAAAAAAADUAAAAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAXQkAAAAAAABdCQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/c4dpy.sublime-build",
+					""
+				],
+				[
+					"Packages/User/c4dpy.sublime-build",
+					"c4dpy"
+				],
+				[
+					"Packages/User/c4dpy.sublime-build",
+					"CPython"
+				]
+			],
+			[
+				"Packages/User/c4dpy.sublime-build",
+				"CPython"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Anaconda: Find object usage"
+			],
+			[
+				"anaconda",
+				"Anaconda: Rename object under cursor"
+			],
+			[
+				"co",
+				"Copilot: Check Status"
+			],
+			[
+				"co sign",
+				"Copilot: Sign In"
+			],
+			[
+				"copilo",
+				"Preferences: LSP-copilot Settings"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"copilot",
+				"Copilot: Check Status"
+			],
+			[
+				"Copi",
+				"Copilot: Check Status"
+			],
+			[
+				"Cop",
+				"Copilot: Sign In"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 163.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 49466))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 51216))"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/SVG2Morph",
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/SVG2Morph/media",
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/SVG2Morph/media/images",
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/SVG2Morph/media/images/SVG2Morph"
+	],
+	"file_history":
+	[
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/DepletionRejuvenationSpirals/DepletionRejuvenationSpirals.py",
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/DepletionRejuvenationSpirals/DepletionRejuvenationSpirals",
+		"/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/DepletionRejuvenationSpirals/README.md",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/line_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/abstract_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/effect_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/library/scripts/pydeation-testing/testing.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/helper_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/custom_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/sketch_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/solid_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/library/scripts/DreamTalkProjects/ad4m.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/xpresso/xpressions.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/animation/abstract_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/animation/animation.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/camera_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/scene.py",
+		"/Users/davidrug/Documents/Ataraxia/InterfaceGuy/CodingAdventures/DreamTalkProjects/ad4m.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/library/scripts/pydeation-PL-pitch/pitch.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/library/scripts/PyTalk-CustodianOfTheNoosphere/custodian_of_the_noosphere.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/DreamTalk.txt",
+		"/Users/davidrug/Library/Mobile Documents/com~apple~CloudDocs/Unclutter/UnclutterFiles/NussschalenBeauftragter.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/materials.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/library/scripts/pytalk-interfaceguy-intro/interfaceguy_intro.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/constants.py",
+		"/Users/davidrug/Documents/InterfaceGuy/CodingAdventures/svg2key-cli/svg2keynote",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/assets/svg/right_eye.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/assets/svg/wave.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/__init__.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/xpresso/userdata.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/xpresso/xpresso.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/action_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/animation/fill_animators.py",
+		"/Users/davidrug/Library/Mobile Documents/com~apple~CloudDocs/Unclutter/Unclutter Files/fix_svg.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/assets/svg/man.svg",
+		"/Users/davidrug/Library/Mobile Documents/com~apple~CloudDocs/Unclutter/Unclutter Files/run_clipboard.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/utils.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/imports.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/tags.py",
+		"/Users/davidrug/Documents/Python/mac_adress_changer.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/animation/transition_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/light_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/animation/composed_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/animation/object_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/animation/sketch_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/objects/svg_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/document.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/python39/libs/pydeation/pydeation.sublime-project",
+		"/Users/davidrug/Documents/Python/Projects/pydeation-horizon-border/README.md",
+		"/Users/davidrug/Documents/Python/Projects/pydeation-horizon-border/horizon_border.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/library/scripts/pydeation-PL-pitch/README.md",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R26_8986B2D7/library/scripts/pydeation-testing/.gitignore",
+		"/Users/davidrug/Library/Application Support/Sublime Text/Packages/User/Anaconda.sublime-settings",
+		"/Users/davidrug/Library/Application Support/Sublime Text/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/pydeation-testing/testing.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/objects/abstract_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/scene.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/constants.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/xpresso/xpresso.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/xpresso/userdata.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/animation/sketch_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/animation/animation.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/xpresso/xpressions.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/objects/line_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/animation/fill_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/animation/abstract_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/animation/object_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/tags.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/imports.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/pydeation/objects/solid_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/pydeation/imports.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/pydeation/xpresso/xpresso.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/pydeation/xpresso/xpressions.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/xpresso/test.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/xpressions/userdata.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/xpressions.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/pydeationV2.sublime-project",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/pydeation.sublime-project",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/testProject/testProjectV2.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/materials.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/objects/helper_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/objects/solid_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/animation/composed_animators.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/objects/svg_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/memetics/memetics.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/testProject/closeDocs.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/fourier_transform/fourier_transform.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/testProject/testing.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeation/document.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/pitch/InterfaceGuy/pitch/pitch.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/scene/scene.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/animation/animator.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/object/mograph.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/constants.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/testProject/testProject.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/camera/camera.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/object/vector_graphics.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/object/object.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/svg/tree.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/svg/david.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/metadata.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/object/custom_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/pitch/InterfaceGuy/stem/stem.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/pitch/InterfaceGuy/seed/seed.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/LICENSE",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/dialectic/DanielSchmachtenberger/left-right/left-right.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/branching/branching.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/dialectical_thinking/dialectical_thinking.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/intro/intro.py",
+		"/Users/davidrug/Library/Mobile Documents/com~apple~CloudDocs/Unclutter/Unclutter Files/Ohne Titel 6.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/project.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/svg/gear_big.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/dialectic_transitions/dialectic.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/clips/DanielSchmachtenberger/NavigatingReality/navigating_reality.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/svg/individual.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/dialectic/DanielSchmachtenberger/being-becoming/being-becoming.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/svg/emu.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/dialectic/DanielSchmachtenberger/conservative-progressive/conservative-progressive.py",
+		"/Users/davidrug/Documents/Python/Projects/pydeation/pydeation.sublime-project",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/dialectical_thinking/dialectical_thinking",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/library/scripts/PydeationProjects/diverse/InterfaceGuy/dialectic/dialectic.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R24_36E19156/python39/libs/pydeationlib/scene/scene.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R24_36E19156/library/scripts/PydeationProjects/diverse/InterfaceGuy/logo/logo.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R24_36E19156/python39/libs/pydeationlib/object/custom_objects.py",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/2D/social_system.jpeg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/2D/vector_graphics_pydeation.key",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/2D/test.svg",
+		"/Users/davidrug/Library/Preferences/Maxon/Maxon Cinema 4D R25_EBA43BEE/python39/libs/pydeationlib/assets/2D/individual.jpeg"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SVG2Morph.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								493,
+								493
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										492,
+										493
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										458,
+										459
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"copilot.completion._is_modified": false,
+							"copilot.completion._is_saving": false,
+							"copilot.completion.completion_index": 0,
+							"copilot.completion.completion_style": "popup",
+							"copilot.completion.completions":
+							[
+								{
+									"displayText": "svg2.set_fill(opacity=0)",
+									"docVersion": 175,
+									"point": 398,
+									"position":
+									{
+										"character": 2,
+										"line": 13
+									},
+									"range":
+									{
+										"end":
+										{
+											"character": 2,
+											"line": 13
+										},
+										"start":
+										{
+											"character": 0,
+											"line": 13
+										}
+									},
+									"region":
+									[
+										396,
+										398
+									],
+									"text": "\t\tsvg2.set_fill(opacity=0)",
+									"uuid": "fa79ec92-f2a8-43b6-a29c-3d7eadfd8c83"
+								}
+							],
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/davidrug/Library/Mobile%20Documents/iCloud%7Emd%7Eobsidian/Documents/InterBrain/SVG2Morph/SVG2Morph.py",
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4109,
+								4109
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"copilot.completion._is_modified": false,
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"default_dir": "/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/SVG2Morph",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"lsp_uri": "buffer:110",
+							"result_base_dir": "/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/SVG2Morph",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 358,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/zsh",
+									"-i",
+									"-l"
+								],
+								"cwd": "/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/SVG2Morph",
+								"default_title": "Login Shell",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "linux",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"reactivable": true,
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.reactivable": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 270.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2485,
+								2485
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"copilot.completion._is_modified": false,
+							"copilot.completion.is_visible": false,
+							"copilot.completion.is_visible_panel_completions": false,
+							"copilot.completion.is_waiting_completion": false,
+							"copilot.completion.is_waiting_panel_completions": false,
+							"copilot.completion.original_layout": null,
+							"default_dir": "/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/SVG2Morph",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"lsp_uri": "buffer:318",
+							"result_base_dir": "/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/SVG2Morph/media/images/SVG2Morph",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 1,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/zsh",
+									"-i",
+									"-l"
+								],
+								"cwd": "/Users/davidrug/Library/Mobile Documents/iCloud~md~obsidian/Documents/InterBrain/SVG2Morph/media/images/SVG2Morph",
+								"default_title": "Login Shell",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "linux",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"reactivable": true,
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.reactivable": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 180.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.711058286951,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 170.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups-dummy":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 109.0
+	},
+	"pinned_build_system": "c4d",
+	"project": "SVG2Morph.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Python/Projects/pydeation/pydeation.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
